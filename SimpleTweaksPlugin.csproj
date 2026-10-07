@@ -1,0 +1,31 @@
+<Project Sdk="Dalamud.NET.Sdk/15.0.0">
+    <PropertyGroup>
+        <Version>1.15.0.7001</Version>
+        <AssemblyName>SimpleTweaksPlugin</AssemblyName>
+        <Configurations>Debug;Release;DebugSteamDeck;CustomCS;Test</Configurations>
+        <NoWarn>CS0649,CS0414,CS8618</NoWarn>
+        <AppendPlatformToOutputPath>false</AppendPlatformToOutputPath>
+    </PropertyGroup>
+    <PropertyGroup Label="Test" Condition="'$(Configuration)'=='Test'">
+        <DefineConstants>DEBUG;TEST</DefineConstants>
+        <OutDir>$(ProjectDir)bin/Debug</OutDir>
+    </PropertyGroup>
+	<ItemGroup>
+        <Reference Include="JetBrains.Annotations">
+            <Private>false</Private>
+            <HintPath>$(DalamudLibPath)\JetBrains.Annotations.dll</HintPath>
+        </Reference>
+        <Content Include="images\icon.png" CopyToOutputDirectory="Always"/>
+        <Content Include="TweakPreviews\**" CopyToOutputDirectory="Always"/>
+        <Content Include="Decorations\**" CopyToOutputDirectory="Always"/>
+        <None Remove="lib\**" />
+        <Compile Remove="lib\**" />
+	</ItemGroup>
+	<ItemGroup>
+	  <PackageReference Include="KamiToolKit" Version="1.1.23" />
+	</ItemGroup>
+    <ItemGroup>
+        <EmbeddedResource Include="Localization/ja.json" LogicalName="SimpleTweaksPlugin.Localization.ja.json" />
+        <EmbeddedResource Include="Localization/display-ja.json" LogicalName="SimpleTweaksPlugin.Localization.display-ja.json" />
+    </ItemGroup>
+</Project>

@@ -1,0 +1,28 @@
+name: Build Japanese edition
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+      - name: Download Dalamud development references
+        shell: pwsh
+        run: |
+          Invoke-WebRequest 'https://goatcorp.github.io/dalamud-distrib/latest.zip' -OutFile latest-dalamud.zip
+          Expand-Archive latest-dalamud.zip -DestinationPath DalamudRefs
+      - name: Build Japanese edition
+        shell: pwsh
+        run: dotnet build SimpleTweaksPlugin.csproj -c Release "-p:DalamudLibPath=$pwd/DalamudRefs/"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: SimpleTweaks-Japanese
+          path: bin/Release/SimpleTweaksPlugin/latest.zip

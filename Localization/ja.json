@@ -1,0 +1,2618 @@
+{
+  "AutoLockHotbar / Description": {
+    "message": "設定した条件が満たされると、ホットバーが自動的にロックされます。",
+    "description": "Japanese edition"
+  },
+  "AutoLockHotbar / Name": {
+    "message": "ホットバー自動ロック",
+    "description": "Japanese edition"
+  },
+  "AutoOpenCommendWindow / Description": {
+    "message": "コンテンツクリア時にMIP推薦ウィンドウを自動で開く",
+    "description": "Japanese edition"
+  },
+  "AutoOpenCommendWindow / Name": {
+    "message": "推薦ウィンドウを自動的に開く",
+    "description": "Japanese edition"
+  },
+  "AutoOpenLootWindow / Description": {
+    "message": "ロット可能なアイテムが追加された時、自動でロット画面を開きます。",
+    "description": "Japanese edition"
+  },
+  "AutoOpenLootWindow / Name": {
+    "message": "ロットウィンドウを自動で開く",
+    "description": "Japanese edition"
+  },
+  "BaitCommand / Description": {
+    "message": "釣り餌を切り替える /$[CustomOrDefaultCommand] コマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "BaitCommand / Name": {
+    "message": "釣り餌コマンド",
+    "description": "Japanese edition"
+  },
+  "CharaCardCommand / Description": {
+    "message": "アドベンチャラープレートを開くコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "CharaCardCommand / Name": {
+    "message": "アドベンチャラープレートコマンド",
+    "description": "Japanese edition"
+  },
+  "CharacterClassSwitcher / Description": {
+    "message": "キャラクターウィンドウでクラス・ジョブをクリックし、ギアセットを切り替えることができます。",
+    "description": "Japanese edition"
+  },
+  "CharacterClassSwitcher / Name": {
+    "message": "キャラクターウィンドウジョブスイッチ",
+    "description": "Japanese edition"
+  },
+  "CharaViewIncreasedZoom / Description": {
+    "message": "キャラクタープレビュー（試着や調べる等）をほぼ無限にズームできるようにします。",
+    "description": "Japanese edition"
+  },
+  "CharaViewIncreasedZoom / Name": {
+    "message": "キャラクタープレビューのズーム幅を増加",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks / Name": {
+    "message": "チャット関連",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@ChatNameColours / Description": {
+    "message": "チャット内のプレイヤーネームにランダムに色をつけるか、手動で設定できるようにします。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@ChatNameColours / Name": {
+    "message": "チャット内の名前の色",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@ChatNameColours / NameAlreadyAddedError": {
+    "message": "この名前は既にリストにあります",
+    "description": "[ChatNameColours] Chat Name Colours - Name is already in list."
+  },
+  "ChatTweaks@ChatNameColours / Player Name": {
+    "message": "プレイヤーネーム",
+    "description": "[ChatNameColours] Chat Name Colours - Player Name"
+  },
+  "ChatTweaks@ChatNameColours / RandomColours": {
+    "message": "リストにないプレイヤーにはランダムな色を使用する",
+    "description": "[ChatNameColours] Chat Name Colours - Use random colours for unlisted players"
+  },
+  "ChatTweaks@ChatNameColours / Server": {
+    "message": "サーバー",
+    "description": "[ChatNameColours] Chat Name Colours - Server"
+  },
+  "ChatTweaks@ClickableLinks / Description": {
+    "message": "チャットに貼られたリンクを認識して、クリックできるようにします。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@ClickableLinks / Name": {
+    "message": "チャット内のクリック可能なリンク",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@CustomTimestampFormat / Description": {
+    "message": "チャットに表示されるタイムスタンプをカスタマイズします。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@CustomTimestampFormat / Name": {
+    "message": "タイムスタンプをカスタム",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@DisableAutoChatInputs / Description": {
+    "message": "チャットボックスに <flag> やその他のパラメータが挿入されないようにする。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@DisableAutoChatInputs / Name": {
+    "message": "チャットの自動入力を無効化",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@DisableChatAutoscroll / AllowAutoscrollLabel": {
+    "message": "常に自動スクロールを許可する：",
+    "description": "[DisableChatAutoscroll] Smart AutoScroll - Always allow autoscrolling in:"
+  },
+  "ChatTweaks@DisableChatAutoscroll / Description": {
+    "message": "チャットを上にスクロールしているときは新着があっても自動スクロールしないようにします。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@DisableChatAutoscroll / Name": {
+    "message": "スマート自動スクロール",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@DisableChatAutoscroll / TabLabel": {
+    "message": "タブ {0}",
+    "description": "[DisableChatAutoscroll] Smart AutoScroll - Tab {0}"
+  },
+  "ChatTweaks@DisableChatMovement / Description": {
+    "message": "チャットウィンドウを移動できないようにします。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@DisableChatMovement / Name": {
+    "message": "チャットウィンドウの移動無効化",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@DisableChatResize / Description": {
+    "message": "チャットウィンドウをリサイズできないようにします。",
+    "description": "[DisableChatResize] Tweak Description"
+  },
+  "ChatTweaks@DisableChatResize / Name": {
+    "message": "チャットウィンドウのリサイズ無効化",
+    "description": "[DisableChatResize] Tweak Name"
+  },
+  "ChatTweaks@EchoPartyFinder / Description": {
+    "message": "グループに参加すると、Party Finderの説明が表示されます。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@EchoPartyFinder / Name": {
+    "message": "エコーパーティーファインダー",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@EchoStorySelection / Description": {
+    "message": "クエスト中に選択した選択肢をEchoします。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@EchoStorySelection / Name": {
+    "message": "選択肢をEchoする",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@HideChat / Description": {
+    "message": "チャットを非表示にするコマンド(/chatvis show|hide|toggle)を追加",
+    "description": "[HideChat] Tweak Description"
+  },
+  "ChatTweaks@HideChat / Name": {
+    "message": "チャット非表示コマンド",
+    "description": "[HideChat] Tweak Name"
+  },
+  "ChatTweaks@HideChatAuto / Description": {
+    "message": "入力時以外は自動的にチャットを非表示にします。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@HideChatAuto / Name": {
+    "message": "チャットを自動的に隠す",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@HideChatPanelButtons / Description": {
+    "message": "分割されたチャットタブのチャット名と閉じるボタンを非表示にします。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@HideChatPanelButtons / Name": {
+    "message": "チャットパネルボタンを隠す",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@ImprovedFontSizes / Description": {
+    "message": "デフォルトの制限を超えてチャットウィンドウのフォントサイズを変更できるようにし、ドッキングされたチャットタブがメインタブとは別のフォントサイズを維持できるようにします。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@ImprovedFontSizes / Name": {
+    "message": "フォントサイズを改善",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@RenameChatTabs / Description": {
+    "message": "チャットウィンドウの \"General\" \"Battle\" タブの名前を変更します。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@RenameChatTabs / Name": {
+    "message": "チャットタブの名前変更",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@RenameChatTabs / TabLabel": {
+    "message": "タブ {0}",
+    "description": "[RenameChatTabs] Rename Chat Tabs - Tab {0}"
+  },
+  "ChatTweaks@ReplyChannelSwitch / Description": {
+    "message": "'/r' と入力して、アクティブなチャットチャンネルをTellに設定できるようにします。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@ReplyChannelSwitch / Name": {
+    "message": "リプライチャンネル切り替え",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@StickyChat / Description": {
+    "message": "一時的なチャットメッセージを使用するときにチャットチャンネルを設定します。\n例：「/p hello!」はチャットチャンネルをパーティに設定",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@StickyChat / Name": {
+    "message": "固定チャット",
+    "description": "Japanese edition"
+  },
+  "ChrDirCommand / Description": {
+    "message": "キャラクターのローカルデータ保存先を開くコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "ChrDirCommand / Name": {
+    "message": "キャラクターディレクトリコマンド",
+    "description": "Japanese edition"
+  },
+  "CombatMovementControl / Description": {
+    "message": "戦闘中/戦闘外、納刀/抜刀時の移動タイプを自動で切り替えます。",
+    "description": "Japanese edition"
+  },
+  "CombatMovementControl / Name": {
+    "message": "移動操作タイプを自動切り替え",
+    "description": "Japanese edition"
+  },
+  "CommandAlias / Description": {
+    "message": "チャットボックスに入力されたコマンドをほかのコマンドに置き換えます。",
+    "description": "Japanese edition"
+  },
+  "CommandAlias / EmptyInputError": {
+    "message": "入力コマンドは空白にできません",
+    "description": "[CommandAlias] Command Alias - Input must not be empty."
+  },
+  "CommandAlias / EmptyOutputError": {
+    "message": "出力コマンドは空白にできません",
+    "description": "[CommandAlias] Command Alias - Output must not be empty."
+  },
+  "CommandAlias / Enabled": {
+    "message": "有効",
+    "description": "[CommandAlias] Command Alias - Enabled"
+  },
+  "CommandAlias / Input Command": {
+    "message": "入力コマンド",
+    "description": "[CommandAlias] Command Alias - Input Command"
+  },
+  "CommandAlias / Instruction": {
+    "message": "コマンドショートカットのリストを追加します。頭の\"/\"は含めないでください。これらのショートカットは仕様上、マクロでは動作しません。",
+    "description": "[CommandAlias] Command Alias - Add list of command alias. Do not start command with the '/'\nThese aliases, by design, do not work with macros."
+  },
+  "CommandAlias / MacroHelp": {
+    "message": "コマンドショートカットはサーバー上にバックアップした際にサーバーに送信されるのを防ぐため、マクロではサポートされていません。マクロでは元のコマンドを使用してください。",
+    "description": "[CommandAlias] Macro Help Tooltip"
+  },
+  "CommandAlias / Name": {
+    "message": "コマンドショートカット",
+    "description": "Japanese edition"
+  },
+  "CommandAlias / New Label": {
+    "message": "新規：",
+    "description": "[CommandAlias] Command Alias - New:"
+  },
+  "CommandAlias / Output Command": {
+    "message": "出力コマンド",
+    "description": "[CommandAlias] Command Alias - Output Command"
+  },
+  "CommandAlias / ProtectedCommandError": {
+    "message": "'/{0}' は保護されたコマンドです。",
+    "description": "[CommandAlias] Command Alias - '/{0}' is a protected command."
+  },
+  "ContentsFinderConfirmClassSwitch / Description": {
+    "message": "ジョブを切り替えるには、コンテンツ突入ウィンドウの「申請時のクラス・ジョブ」アイコンをクリックする。",
+    "description": "Japanese edition"
+  },
+  "ContentsFinderConfirmClassSwitch / Name": {
+    "message": "コンテンツ突入時にジョブを自動切り替え",
+    "description": "Japanese edition"
+  },
+  "DataCentreOnTitleScreen / Description": {
+    "message": "タイトル画面に選択中のデータセンターを表示します。",
+    "description": "Japanese edition"
+  },
+  "DataCentreOnTitleScreen / Name": {
+    "message": "タイトル画面にデータセンターを表示",
+    "description": "Japanese edition"
+  },
+  "DisableClickTargeting / AddButton": {
+    "message": "追加",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Add"
+  },
+  "DisableClickTargeting / CombatHeader": {
+    "message": "戦闘中のみ",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Only in\nCombat"
+  },
+  "DisableClickTargeting / DefaultNameText": {
+    "message": "デフォルト (名前のマッチなし)",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Default (Unmatched Names)"
+  },
+  "DisableClickTargeting / Description": {
+    "message": "左右のマウスクリックによるターゲットを無効化します。",
+    "description": "Japanese edition"
+  },
+  "DisableClickTargeting / EverythingDisabled": {
+    "message": "すべてが無効化されている場合は何も行われません。",
+    "description": "[DisableClickTargeting] Disable Click Targeting - It is doing nothing if everything is disabled..."
+  },
+  "DisableClickTargeting / LeftHeader": {
+    "message": "左クリック無効化",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Disable\nLeft"
+  },
+  "DisableClickTargeting / Name": {
+    "message": "マウスターゲットを無効化",
+    "description": "Japanese edition"
+  },
+  "DisableClickTargeting / NameFiltering": {
+    "message": "名前によるフィルターを有効化",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Enable Name Filtering"
+  },
+  "DisableClickTargeting / NameFiltersHelp": {
+    "message": "名前ごとのオプション ",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Per actor options for "
+  },
+  "DisableClickTargeting / NameFiltersLabel": {
+    "message": "名前によるフィルター：",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Name Filters:"
+  },
+  "DisableClickTargeting / NameHeader": {
+    "message": "\n名前",
+    "description": "[DisableClickTargeting] Disable Click Targeting - \nName"
+  },
+  "DisableClickTargeting / NamePlaceholder": {
+    "message": "名前",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Name"
+  },
+  "DisableClickTargeting / RemoveTooltip": {
+    "message": "{0} を削除する",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Remove {0}"
+  },
+  "DisableClickTargeting / RightHeader": {
+    "message": "右クリック無効化",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Disable\nRight"
+  },
+  "DisableClickTargeting / SimpleCombatOnly": {
+    "message": "戦闘中のみ無効化",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Only disable in combat"
+  },
+  "DisableClickTargeting / SimpleDisableLeftClick": {
+    "message": "左クリックターゲットを無効化",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Disable Left Click Targeting"
+  },
+  "DisableClickTargeting / SimpleDisableRightClick": {
+    "message": "右クリックターゲットを無効化",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Disable Right Click Targeting"
+  },
+  "DisableMountVolumeChange / Description": {
+    "message": "移動していないときに騎乗中のBGMが静かになるのを防ぎます。",
+    "description": "Japanese edition"
+  },
+  "DisableMountVolumeChange / Name": {
+    "message": "マウントBGMの音量変更を無効化",
+    "description": "Japanese edition"
+  },
+  "DisableMouseCameraControl / Description": {
+    "message": "マウスによるカメラの操作を無効にします。",
+    "description": "Japanese edition"
+  },
+  "DisableMouseCameraControl / Name": {
+    "message": "マウスによるカメラ操作を無効にする",
+    "description": "Japanese edition"
+  },
+  "DisableTitleScreenMovie / Description": {
+    "message": "タイトル画面で60秒後に再生されるムービーを無効化します。",
+    "description": "Japanese edition"
+  },
+  "DisableTitleScreenMovie / Name": {
+    "message": "タイトル画面のムービーを無効化",
+    "description": "Japanese edition"
+  },
+  "EmoteLogSubcommand / Description": {
+    "message": "エモートをログに表示しない設定のときに、感情表現テキストを表示する「text」サブコマンドを追加します。/yes text",
+    "description": "Japanese edition"
+  },
+  "EmoteLogSubcommand / Name": {
+    "message": "エモートログのサブコマンド",
+    "description": "Japanese edition"
+  },
+  "EstateListCommand / Description": {
+    "message": "フレンドのハウス一覧を開くコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "EstateListCommand / Name": {
+    "message": "ハウステレポコマンド",
+    "description": "Japanese edition"
+  },
+  "ExtendedMacroIcon / Description": {
+    "message": "マクロ内で '/macroicon # id' を使用する際に、特定のアイコン ID を使用できるようにします。",
+    "description": "Japanese edition"
+  },
+  "ExtendedMacroIcon / Name": {
+    "message": "拡張マクロアイコン",
+    "description": "Japanese edition"
+  },
+  "FixedShadowDistance / Description": {
+    "message": "影がレンダリングされる距離を固定し、飛行中でも変更されないようにします。",
+    "description": "[FixedShadowDistance] Tweak Description"
+  },
+  "FixedShadowDistance / Name": {
+    "message": "影の表示距離を固定",
+    "description": "[FixedShadowDistance] Tweak Name"
+  },
+  "FixedShadowDistance / Shadow Distance": {
+    "message": "影の表示距離",
+    "description": "[FixedShadowDistance] Fixed Shadow Distance - Shadow Distance"
+  },
+  "FixTarget / Description": {
+    "message": "デフォルトの '/target' コマンドを修正して、プレイヤーやNPCの名前を使ってターゲットできるようにします。",
+    "description": "Japanese edition"
+  },
+  "FixTarget / Name": {
+    "message": "'/target' コマンドの修正",
+    "description": "Japanese edition"
+  },
+  "General Options / Auto Open Changelog": {
+    "message": "更新履歴を自動的に表示",
+    "description": "General Options / Auto Open Changelog - Open New Changelogs Automatically"
+  },
+  "General Options / Disable Changelog Notice": {
+    "message": "更新履歴の通知を無効化",
+    "description": "General Options / Disable Changelog Notice - Disable Changelog Notifications"
+  },
+  "General Options / Formatting Culture": {
+    "message": "書式設定",
+    "description": "General Options / Formatting Culture - Formatting Culture"
+  },
+  "General Options / Hide KoFi": {
+    "message": "Ko-Fiリンクを非表示",
+    "description": "General Options / Hide KoFi - Hide Ko-fi link."
+  },
+  "General Options / Language": {
+    "message": "言語",
+    "description": "General Options / Language - Language"
+  },
+  "General Options / Show Experimental Tweaks": {
+    "message": "実験的な拡張機能を表示",
+    "description": "General Options / Show Experimental Tweaks - Show Experimental Tweaks."
+  },
+  "General Options / Show Tweak Descriptions": {
+    "message": "拡張機能の説明を表示",
+    "description": "General Options / Show Tweak Descriptions - Show tweak descriptions."
+  },
+  "General Options / Show Tweak IDs": {
+    "message": "拡張機能のIDを表示",
+    "description": "General Options / Show Tweak IDs - Show tweak IDs."
+  },
+  "General Options / TabHeader": {
+    "message": "設定",
+    "description": "General Options / TabHeader - General Options"
+  },
+  "General Tweaks": {
+    "message": "一般",
+    "description": "General Tweaks Tab Header"
+  },
+  "Hide Tweak": {
+    "message": "拡張機能を非表示にする",
+    "description": "Hide Tweak - Hide Tweak"
+  },
+  "HideHotbarLock / Description": {
+    "message": "ホットバーのロックボタンを隠します。指定したキーを押している間だけ表示することもできます。",
+    "description": "Japanese edition"
+  },
+  "HideHotbarLock / Name": {
+    "message": "ホットバーロックを隠す",
+    "description": "Japanese edition"
+  },
+  "HideMouseAfterInactivity / Description": {
+    "message": "ビデオプレーヤーのように一定時間操作しないと、マウスカーソルが非表示になります。",
+    "description": "Japanese edition"
+  },
+  "HideMouseAfterInactivity / Name": {
+    "message": "非アクティブ時にマウスカーソルを非表示",
+    "description": "Japanese edition"
+  },
+  "HighResScreenshots / Description": {
+    "message": "高解像度のスクリーンショットの取得、DalamudとゲームUIの非表示、およびスクリーンショットからの著作権表示の削除を許可します。",
+    "description": "Japanese edition"
+  },
+  "HighResScreenshots / Name": {
+    "message": "スクリーンショットの改善",
+    "description": "Japanese edition"
+  },
+  "HouseLightCommand / Description": {
+    "message": "自分の住宅エリアに照明を制御するコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "HouseLightCommand / Name": {
+    "message": "家の照明コマンド",
+    "description": "Japanese edition"
+  },
+  "JokeTweaks / Name": {
+    "message": "ジョークの微調整",
+    "description": "[JokeTweaks] Tweak Name"
+  },
+  "JokeTweaks@Fools2023 / Description": {
+    "message": "エイプリルフール2023機能を再度有効にする",
+    "description": "[Fools2023] Tweak Description"
+  },
+  "JokeTweaks@Fools2023 / Name": {
+    "message": "エイプリルフール 2023",
+    "description": "[Fools2023] Tweak Name"
+  },
+  "KeepOpen / Description": {
+    "message": "特定の状況下で特定のウィンドウを隠すことを防ぎます。",
+    "description": "Japanese edition"
+  },
+  "KeepOpen / Name": {
+    "message": "ウィンドウを開いたままにする",
+    "description": "Japanese edition"
+  },
+  "KeyInterrupt / Description": {
+    "message": "「Alt+Tab」やその他のキーをブロックしてゲーム内に留まる。",
+    "description": "Japanese edition"
+  },
+  "KeyInterrupt / Name": {
+    "message": "キーボードゲームモード",
+    "description": "Japanese edition"
+  },
+  "LegacyCameraLock / Description": {
+    "message": "移動操作タイプ：レガシーの使用時に、カメラの回転を防止します。",
+    "description": "[LegacyCameraLock] Tweak Description"
+  },
+  "LegacyCameraLock / Name": {
+    "message": "レガシーカメラロック",
+    "description": "[LegacyCameraLock] Tweak Name"
+  },
+  "LongVeil / Description": {
+    "message": "ウェディングベールを、通常は十二神大聖堂でしか見られない長いタイプのものに置き換えます。",
+    "description": "Japanese edition"
+  },
+  "LongVeil / Name": {
+    "message": "長いヴェール",
+    "description": "Japanese edition"
+  },
+  "MainCommandCommand / Description": {
+    "message": "チャットやマクロからメインコマンドを実行できるコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "MainCommandCommand / Name": {
+    "message": "メインコマンド",
+    "description": "Japanese edition"
+  },
+  "MinionAway / Description": {
+    "message": "現在のミニオンを解除するコマンドを追加します。/minionaway",
+    "description": "[MinionAway] Tweak Description"
+  },
+  "MinionAway / Name": {
+    "message": "ミニオンコマンドを閉じる",
+    "description": "Japanese edition"
+  },
+  "MoreGearSets / Description": {
+    "message": "ギアセットの最大数を100に増やします。",
+    "description": "[MoreGearSets] Tweak Description"
+  },
+  "MoreGearSets / Name": {
+    "message": "ギアセット追加",
+    "description": "[MoreGearSets] Tweak Name"
+  },
+  "NoSellList / Description": {
+    "message": "ベンダーに販売できないアイテムのリストを定義できます。",
+    "description": "Japanese edition"
+  },
+  "NoSellList / Name": {
+    "message": "販売リストがありません",
+    "description": "Japanese edition"
+  },
+  "PidCommand / Description": {
+    "message": "現在のプロセスIDを表示するコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "PidCommand / Name": {
+    "message": "プロセスID表示コマンド",
+    "description": "Japanese edition"
+  },
+  "QuickSellItems / Description": {
+    "message": "修飾キーを押して、ワンクリックでインベントリからアイテムを販売します。",
+    "description": "Japanese edition"
+  },
+  "QuickSellItems / Name": {
+    "message": "仕入先でクイック販売",
+    "description": "Japanese edition"
+  },
+  "RecommendEquipCommand / Description": {
+    "message": "最強装備を適用するコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "RecommendEquipCommand / Name": {
+    "message": "おすすめ装備コマンド",
+    "description": "Japanese edition"
+  },
+  "RefreshMarketPrices / Description": {
+    "message": "「少し待って、再度検索を試みてください」メッセージを受信した時に価格を取得しようとしています",
+    "description": "Japanese edition"
+  },
+  "RefreshMarketPrices / Name": {
+    "message": "市場価格を更新",
+    "description": "Japanese edition"
+  },
+  "RememberQuickGathering / Description": {
+    "message": "未知の採集場所で採集した後でも、簡易採集のチェック状態を維持します。",
+    "description": "Japanese edition"
+  },
+  "RememberQuickGathering / Name": {
+    "message": "簡易採集を維持",
+    "description": "Japanese edition"
+  },
+  "SanctuarySprintReplacer / Description": {
+    "message": "島の神殿で通常のスプリントアクションを島のスプリントに置き換えます。",
+    "description": "Japanese edition"
+  },
+  "SanctuarySprintReplacer / Name": {
+    "message": "アイランドサンクチュアリ・スプリント交換機",
+    "description": "Japanese edition"
+  },
+  "ScreenshotFileName / Description": {
+    "message": "スクリーンショットのファイル名のフォーマットを変更します。",
+    "description": "Japanese edition"
+  },
+  "ScreenshotFileName / Name": {
+    "message": "スクリーンショットのファイル名",
+    "description": "Japanese edition"
+  },
+  "SetOptionCommand / alias": {
+    "message": "エイリアス",
+    "description": "[SetOptionCommand] Set Option Command - alias"
+  },
+  "SetOptionCommand / Available Options": {
+    "message": "使用可能なオプション",
+    "description": "[SetOptionCommand] Set Option Command - Available Options"
+  },
+  "SetOptionCommand / Description": {
+    "message": "様々な設定を変更するコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "SetOptionCommand / Name": {
+    "message": "オプションコマンドの設定",
+    "description": "Japanese edition"
+  },
+  "SetOptionCommand / option": {
+    "message": "オプション",
+    "description": "[SetOptionCommand] Set Option Command - option"
+  },
+  "SetOptionCommand / values": {
+    "message": "値",
+    "description": "[SetOptionCommand] Set Option Command - values"
+  },
+  "SmartStrafe / Description": {
+    "message": "キーボード操作でストライフと旋回を賢く切り替えます。\n(移動操作タイプ：レガシー使用時のみ)",
+    "description": "Japanese edition"
+  },
+  "SmartStrafe / Name": {
+    "message": "スマートストライフ",
+    "description": "Japanese edition"
+  },
+  "SyncCrafterBars / Description": {
+    "message": "クラフターのホットバーを同期します。",
+    "description": "Japanese edition"
+  },
+  "SyncCrafterBars / Name": {
+    "message": "クラフターホットバー同期",
+    "description": "Japanese edition"
+  },
+  "SyncGathererBars / Description": {
+    "message": "採掘師と園芸師のホットバーを同期します。",
+    "description": "Japanese edition"
+  },
+  "SyncGathererBars / Name": {
+    "message": "ギャザラーホットバー同期",
+    "description": "Japanese edition"
+  },
+  "SystemConfigInGroupPose / Description": {
+    "message": "Gpose での /systemconfig コマンドの使用を許可します。",
+    "description": "Japanese edition"
+  },
+  "SystemConfigInGroupPose / Name": {
+    "message": "グループポーズ内のSystemConfig",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks / Name": {
+    "message": "ツールチップ関連",
+    "description": "[TooltipTweaks] Tweak Name"
+  },
+  "TooltipTweaks@AdditionalItemInfo / Description": {
+    "message": "アイテムのツールチップに追加情報を表示します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@AdditionalItemInfo / Name": {
+    "message": "ツールチップの追加情報",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@BlueActionInfo / Description": {
+    "message": "ダメージタイプ、アスペクト、ランクを青の髷アクションに追加します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@BlueActionInfo / Name": {
+    "message": "改善されたブルーメイジアクションツールヒント",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@CopyHotkey / Browser Only": {
+    "message": "ブラウザのみ",
+    "description": "[CopyHotkey] Item Hotkeys - Browser Only"
+  },
+  "TooltipTweaks@CopyHotkey / Cancel": {
+    "message": "キャンセル",
+    "description": "[CopyHotkey] Item Hotkeys - Cancel"
+  },
+  "TooltipTweaks@CopyHotkey / Confirm": {
+    "message": "確認",
+    "description": "[CopyHotkey] Item Hotkeys - Confirm"
+  },
+  "TooltipTweaks@CopyHotkey / Copy Item Name": {
+    "message": "アイテム名をコピー",
+    "description": "[CopyHotkey] Item Hotkeys - Copy Item Name"
+  },
+  "TooltipTweaks@CopyHotkey / Description": {
+    "message": "アイテム詳細ウィンドウが表示されているときに、さまざまなアクションのホットキーを追加します。",
+    "description": "[CopyHotkey] Tweak Description"
+  },
+  "TooltipTweaks@CopyHotkey / Name": {
+    "message": "アイテムのホットキー",
+    "description": "[CopyHotkey] Tweak Name"
+  },
+  "TooltipTweaks@CopyHotkey / NoHelpText": {
+    "message": "ツールチップにホットキーのヘルプを表示しない",
+    "description": "[CopyHotkey] Item Hotkeys - Don't show hotkey help on Tooltip"
+  },
+  "TooltipTweaks@CopyHotkey / Set Keybind": {
+    "message": "キーバインドの設定",
+    "description": "[CopyHotkey] Item Hotkeys - Set Keybind"
+  },
+  "TooltipTweaks@CopyHotkey / View on Eriones (JP)": {
+    "message": "Eriones(JP)で表示",
+    "description": "[CopyHotkey] Item Hotkeys - View on Eriones (JP)"
+  },
+  "TooltipTweaks@CopyHotkey / View on Gamer Escape": {
+    "message": "Gamer Escapeで表示",
+    "description": "[CopyHotkey] Item Hotkeys - View on Gamer Escape"
+  },
+  "TooltipTweaks@CopyHotkey / View on Garland Tools": {
+    "message": "Garland Toolsで表示",
+    "description": "[CopyHotkey] Item Hotkeys - View on Garland Tools"
+  },
+  "TooltipTweaks@CopyHotkey / View on Teamcraft": {
+    "message": "Teamcraftで表示",
+    "description": "[CopyHotkey] Item Hotkeys - View on Teamcraft"
+  },
+  "TooltipTweaks@CraftingActionInfo / Description": {
+    "message": "ツールチップに作業の効率を計算します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@CraftingActionInfo / Name": {
+    "message": "改良されたクラフトアクションツールヒント",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@DesynthesisSkill / Colour Value": {
+    "message": "値を色付け",
+    "description": "[DesynthesisSkill] Show Desynthesis Skill - Colour Value"
+  },
+  "TooltipTweaks@DesynthesisSkill / Description": {
+    "message": "分解可能なアイテムを閲覧中に現在の分解レベルを表示します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@DesynthesisSkill / Desynthesis Delta": {
+    "message": "差分で表示",
+    "description": "[DesynthesisSkill] Show Desynthesis Skill - Desynthesis Delta"
+  },
+  "TooltipTweaks@DesynthesisSkill / Name": {
+    "message": "アイテム分解スキルを表示",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@FoodStats / Description": {
+    "message": "アイテムの消費によるステータスへの影響を算出、表示します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@FoodStats / Highlight Active": {
+    "message": "現在の効果量を強調表示",
+    "description": "[FoodStats] Show expected food and potion stats - Highlight Active"
+  },
+  "TooltipTweaks@FoodStats / Name": {
+    "message": "食事と薬の効果が発揮されるステータスを表示",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@HideTooltipsInCombat / Description": {
+    "message": "戦闘中などにアクションやアイテムのツールチップを非表示にできます。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@HideTooltipsInCombat / Name": {
+    "message": "戦闘中にツールチップを隠す",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@ItemHotkeys / Description": {
+    "message": "アイテム詳細ウィンドウが表示されているときに、さまざまなアクションのホットキーを追加します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@ItemHotkeys / Name": {
+    "message": "アイテムのホットキー",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@MateriaStats / Colour Value": {
+    "message": "値を色付け",
+    "description": "[MateriaStats] Materia Stats - Colour Value"
+  },
+  "TooltipTweaks@MateriaStats / Description": {
+    "message": "統計を表示するときにアイテムにセットされているマテリア分が含まれます。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@MateriaStats / Name": {
+    "message": "マテリアスロット",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@MateriaStats / Show Delta": {
+    "message": "差分を表示",
+    "description": "[MateriaStats] Materia Stats - Show Delta"
+  },
+  "TooltipTweaks@MateriaStats / Show Total": {
+    "message": "合計を表示",
+    "description": "[MateriaStats] Materia Stats - Show Total"
+  },
+  "TooltipTweaks@MateriaStats / Simplified Combined Display": {
+    "message": "簡易複合表示",
+    "description": "[MateriaStats] Materia Stats - Simplified Combined Display"
+  },
+  "TooltipTweaks@PaintingPreview / Description": {
+    "message": "アイテムのツールチップに絵画の画像プレビューを追加します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@PaintingPreview / Name": {
+    "message": "絵画プレビューを表示",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@PrecisionDurability / Description": {
+    "message": "耐久度のパーセンテージを表示します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@PrecisionDurability / Name": {
+    "message": "詳細な耐久度",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@PrecisionDurability / Trailing Zeros": {
+    "message": "末尾の0を表示",
+    "description": "[PrecisionDurability] Precise Durability - Trailing Zeros"
+  },
+  "TooltipTweaks@PrecisionSpiritbond / Description": {
+    "message": "耐久度のパーセンテージを表示します。",
+    "description": "[PrecisionSpiritbond] Tweak Description"
+  },
+  "TooltipTweaks@PrecisionSpiritbond / Name": {
+    "message": "詳細な練成度",
+    "description": "[PrecisionSpiritbond] Tweak Name"
+  },
+  "TooltipTweaks@PrecisionSpiritbond / Trailing Zeros": {
+    "message": "末尾の0を表示",
+    "description": "[PrecisionSpiritbond] Precise Spiritbond - Trailing Zeros"
+  },
+  "TooltipTweaks@ShowItemID / Description": {
+    "message": "ツールチップにアクションとアイテムのIDを表示します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@ShowItemID / Name": {
+    "message": "IDを表示",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@ShowItemID / Show Both HEX and Decimal": {
+    "message": "16進数と10進数の両方を表示",
+    "description": "[ShowItemID] [Config] Show Both HEX and Decimal"
+  },
+  "TooltipTweaks@ShowItemID / Use Hexadecimal ID": {
+    "message": "16進数のIDを使用する",
+    "description": "[ShowItemID] [Config] Use Hexadecimal ID"
+  },
+  "TooltipTweaks@SimplifiedClassJobDisplay / Description": {
+    "message": "ジョブのロックが解除された場合、機器のツールチップからクラスを非表示にします。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@SimplifiedClassJobDisplay / Name": {
+    "message": "簡易装備ジョブ表示",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@TrackFadedRolls / Description": {
+    "message": "収集したチェックマークをフェードオーケストラロールに追加します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@TrackFadedRolls / Name": {
+    "message": "トラックフェードオーケストラロール",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@TrackGachaItems / Description": {
+    "message": "すべての潜在的なアイテムが入手されたときに、トリプルトリアドカードパックなどのガチャアイテムに収集可能なチェックマークを追加します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@TrackGachaItems / Name": {
+    "message": "ガチャアイテムを追跡する",
+    "description": "Japanese edition"
+  },
+  "TreasureHuntTargets / Description": {
+    "message": "Treasure Hunt の他のプレイヤーの一部である敵のターゲットを無効にします。",
+    "description": "Japanese edition"
+  },
+  "TreasureHuntTargets / Name": {
+    "message": "ターゲットのトレジャーハントの敵をブロック",
+    "description": "Japanese edition"
+  },
+  "TryOnCorrectItem / Description": {
+    "message": "武具投影されている装備を試着する時に、正確な外見を表示する。　",
+    "description": "Japanese edition"
+  },
+  "TryOnCorrectItem / Name": {
+    "message": "正確な試着",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments / Name": {
+    "message": "UI関連",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@AccurateVentureTimes / Description": {
+    "message": "リテイナーリストにリテイナーベンチャーの完了までのライブカウントダウンを表示します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@AccurateVentureTimes / Name": {
+    "message": "詳細なリテイナーベンチャー時間",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@AccurateVentureTimes / Simple Display": {
+    "message": "シンプルな表示",
+    "description": "[AccurateVentureTimes] [Config] Simple Display"
+  },
+  "UiAdjustments@ActionPressMirroring / Description": {
+    "message": "使用時に同じ能力を持つすべてのホットバースロットには、アクションプレスパルスが表示されます。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ActionPressMirroring / Name": {
+    "message": "ホットバーのキーバインドヒントを複製",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@AlwaysYes / Description": {
+    "message": "決定キー（テンキー0）で確認画面を操作するとき、初期選択を「はい」にします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@AlwaysYes / Name": {
+    "message": "常にはい",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@BattleTalkAdjustments / Description": {
+    "message": "戦闘中に表示されるセリフのダイアログの位置を変更します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@BattleTalkAdjustments / Name": {
+    "message": "戦闘中のセリフダイアログ調整",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@BattleTalkAdjustments / PositionPreviewText": {
+    "message": "新しいセリフダイアログボックスの位置",
+    "description": "[BattleTalkAdjustments] Battle Talk Adjustments - NEW BATTLE TALK DIALOGUE BOX POSITION"
+  },
+  "UiAdjustments@BattleTalkAdjustments / Scale": {
+    "message": "サイズ倍率",
+    "description": "[BattleTalkAdjustments] Battle Talk Adjustments - Scale"
+  },
+  "UiAdjustments@BattleTalkAdjustments / X Offset": {
+    "message": "X 座標のオフセット",
+    "description": "[BattleTalkAdjustments] Battle Talk Adjustments - X Offset"
+  },
+  "UiAdjustments@BattleTalkAdjustments / Y Offset": {
+    "message": "Y 座標のオフセット",
+    "description": "[BattleTalkAdjustments] Battle Talk Adjustments - Y Offset"
+  },
+  "UiAdjustments@CastBarAdjustments / Align Ability Name": {
+    "message": "アビリティ名の整列",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - Align Ability Name"
+  },
+  "UiAdjustments@CastBarAdjustments / Align Countdown Text": {
+    "message": "カウントダウンテキストの整列",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - Align Countdown Text"
+  },
+  "UiAdjustments@CastBarAdjustments / Description": {
+    "message": "キャストバーの一部を隠したり移動したりできます。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@CastBarAdjustments / Hide Ability Name": {
+    "message": "アビリティ名を非表示",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - Hide Ability Name"
+  },
+  "UiAdjustments@CastBarAdjustments / Hide Casting": {
+    "message": "「キャスト」テキストを非表示",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - Hide 'Casting' Text"
+  },
+  "UiAdjustments@CastBarAdjustments / Hide Countdown Text": {
+    "message": "カウントダウンテキストを非表示",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - Hide Countdown Text"
+  },
+  "UiAdjustments@CastBarAdjustments / Hide Icon": {
+    "message": "アイコンを非表示",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - Hide Icon"
+  },
+  "UiAdjustments@CastBarAdjustments / Hide Interrupted Text": {
+    "message": "'Interrupted' テキストを非表示",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - Hide Interrupted Text"
+  },
+  "UiAdjustments@CastBarAdjustments / Name": {
+    "message": "キャストバー調整",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@CastBarAdjustments / Offset": {
+    "message": "オフセット",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - Offset"
+  },
+  "UiAdjustments@CastBarAdjustments / Show SlideCast Marker": {
+    "message": "滑り撃ちマーカーを表示",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - Show SlideCast Marker"
+  },
+  "UiAdjustments@CastBarAdjustments / SlideCast Marker Colour": {
+    "message": "滑り撃ちマーカーの色",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - SlideCast Marker Colour"
+  },
+  "UiAdjustments@CastBarAdjustments / SlideCast Offset Time": {
+    "message": "滑り撃ちの時間補正",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - SlideCast Offset Time"
+  },
+  "UiAdjustments@CastBarAdjustments / SlideCast Ready Colour": {
+    "message": "滑り撃ち可能時の色",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - SlideCast Ready Colour"
+  },
+  "UiAdjustments@ChangeMapAreaColors / Description": {
+    "message": "マップ上に表示されるクエストの目的地やFATeなどの範囲の色を変更します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ChangeMapAreaColors / Name": {
+    "message": "マップの領域の色を変更",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ColoredDutyRoulette / Description": {
+    "message": "色のデューティルーレットの名前は、その完了状態を示します",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ColoredDutyRoulette / Name": {
+    "message": "色のルーレット名",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ComboTimer / Always Visible": {
+    "message": "常に表示",
+    "description": "[ComboTimer] [Config] Always Visible"
+  },
+  "UiAdjustments@ComboTimer / Description": {
+    "message": "コンボアクションのカウントダウンを表示します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ComboTimer / Font Size": {
+    "message": "フォントサイズ",
+    "description": "[ComboTimer] [Config] Font Size"
+  },
+  "UiAdjustments@ComboTimer / Hide 'COMBO' Text": {
+    "message": "'COMBO' テキストを非表示",
+    "description": "[ComboTimer] [Config] Hide 'COMBO' Text"
+  },
+  "UiAdjustments@ComboTimer / Name": {
+    "message": "コンボタイマー",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ComboTimer / Text Color": {
+    "message": "文字の色",
+    "description": "[ComboTimer] [Config] Text Color"
+  },
+  "UiAdjustments@ComboTimer / Text Outline Color": {
+    "message": "文字の輪郭の色",
+    "description": "[ComboTimer] [Config] Text Outline Color"
+  },
+  "UiAdjustments@ComboTimer / X Position Offset": {
+    "message": "X座標のオフセット",
+    "description": "[ComboTimer] [Config] X Position Offset"
+  },
+  "UiAdjustments@ComboTimer / Y Position Offset": {
+    "message": "Y座標のオフセット",
+    "description": "[ComboTimer] [Config] Y Position Offset"
+  },
+  "UiAdjustments@ControlHintMirroring / Description": {
+    "message": "同じアクションをセットした時に、キーバインドヒントをキーバインドされていないホットバーにも表示します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ControlHintMirroring / Name": {
+    "message": "ホットバーのキーバインドヒントを複製",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@CustomFreeCompanyTags / AddButton": {
+    "message": "追加",
+    "description": "[CustomFreeCompanyTags] Custom Free Company Tags - Add"
+  },
+  "UiAdjustments@CustomFreeCompanyTags / ColourHelpLink": {
+    "message": "サポートされているアイコン、色とグローの一覧については、ここをクリックしてください。",
+    "description": "[CustomFreeCompanyTags] Custom Free Company Tags - Click here for a list of supported colours and glows."
+  },
+  "UiAdjustments@CustomFreeCompanyTags / Description": {
+    "message": "フリーカンパニーとWandererタグの非表示やカスタマイズを可能にします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@CustomFreeCompanyTags / DuplicateNameError": {
+    "message": "この名前は既に追加されています。",
+    "description": "[CustomFreeCompanyTags] Custom Free Company Tags - This name is already added."
+  },
+  "UiAdjustments@CustomFreeCompanyTags / FC Tag": {
+    "message": "FCタグ",
+    "description": "[CustomFreeCompanyTags] Custom Free Company Tags - FC Tag"
+  },
+  "UiAdjustments@CustomFreeCompanyTags / FCAlreadyAddedError": {
+    "message": "FCは既にリストにあります。",
+    "description": "[CustomFreeCompanyTags] Custom Free Company Tags - FC is already on list."
+  },
+  "UiAdjustments@CustomFreeCompanyTags / Name": {
+    "message": "フリーカンパニーのカスタムタグ",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@CustomFreeCompanyTags / NoFCNote": {
+    "message": "リストに追加するFC名を入力してください。",
+    "description": "[CustomFreeCompanyTags] Custom Free Company Tags - Enter name to add FC to list."
+  },
+  "UiAdjustments@CustomFreeCompanyTags / Replace": {
+    "message": "変更",
+    "description": "[CustomFreeCompanyTags] Custom Free Company Tags - Replace"
+  },
+  "UiAdjustments@CustomFreeCompanyTags / Replacement": {
+    "message": "変更後のテキスト",
+    "description": "[CustomFreeCompanyTags] Custom Free Company Tags - Replacement"
+  },
+  "UiAdjustments@CustomTimeFormat / Description": {
+    "message": "ゲーム内の時計にカスタム時間フォーマットを設定します。C#フォーマット文字列を使用します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@CustomTimeFormat / Eorzea Time": {
+    "message": "エオルゼア時間",
+    "description": "[CustomTimeFormat] Custom Time Formats - Eorzea Time"
+  },
+  "UiAdjustments@CustomTimeFormat / Local Time": {
+    "message": "ローカル時間",
+    "description": "[CustomTimeFormat] Custom Time Formats - Local Time"
+  },
+  "UiAdjustments@CustomTimeFormat / Name": {
+    "message": "時間フォーマットのカスタム",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@CustomTimeFormat / Server Time": {
+    "message": "サーバー時間",
+    "description": "[CustomTimeFormat] Custom Time Formats - Server Time"
+  },
+  "UiAdjustments@DutyListBackground / Name": {
+    "message": "義務リストの背景",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ExamineItemLevel / Description": {
+    "message": "他のプレイヤーのアイテムレベルを計算します。\n赤の値はそのプレイヤーが自分のレベルに合わせた装備の最大レベルを表示しています。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ExamineItemLevel / ItemLevelIcon": {
+    "message": "アイテムレベルアイコンを表示",
+    "description": "[ExamineItemLevel] Item Level in Examine - Show Item Level Icon"
+  },
+  "UiAdjustments@ExamineItemLevel / Name": {
+    "message": "アイテムレベルを調査",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ExpandedCurrencyDisplay / Description": {
+    "message": "追加の通貨を表示できます。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ExpandedCurrencyDisplay / Name": {
+    "message": "拡張通貨表示",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ExpPercentage / Decimals": {
+    "message": "少数点",
+    "description": "[ExpPercentage] [Config] Decimals"
+  },
+  "UiAdjustments@ExpPercentage / Description": {
+    "message": "経験値バーに現在の経験値の獲得率を表示します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ExpPercentage / Name": {
+    "message": "経験値の獲得率を表示",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ExpPercentage / Only show percentage": {
+    "message": "獲得率のみを表示",
+    "description": "[ExpPercentage] [Config] Only show percentage"
+  },
+  "UiAdjustments@ExtendedDesynthesisWindow / BlockClickOnGearset": {
+    "message": "ギアセットアイテムのクリックをブロックします。",
+    "description": "[ExtendedDesynthesisWindow] Extended Desynthesis Window - Block clicking on gearset items."
+  },
+  "UiAdjustments@ExtendedDesynthesisWindow / Description": {
+    "message": "分解ウィンドウにて現在の分解レベルとそのアイテムの分解適正レベルを表示します。\nまた、そのアイテムがギアセットに登録済みか表示、オプションでギアセット登録中のアイテムを選択できなくします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ExtendedDesynthesisWindow / DesynthesisDelta": {
+    "message": "アイテム分解スキルを表示",
+    "description": "[ExtendedDesynthesisWindow] Extended Desynthesis Window - Show desynthesis delta"
+  },
+  "UiAdjustments@ExtendedDesynthesisWindow / ExcludeGearSet": {
+    "message": "ギアセットのアイテム。",
+    "description": "[ExtendedDesynthesisWindow] Extended Desynthesis Window - Items in gear sets."
+  },
+  "UiAdjustments@ExtendedDesynthesisWindow / ExcludeHeader": {
+    "message": "「すべてのアイテム」カテゴリから除外：",
+    "description": "[ExtendedDesynthesisWindow] Extended Desynthesis Window - Exlude from the 'All Items' category:"
+  },
+  "UiAdjustments@ExtendedDesynthesisWindow / ExcludeNoSkill": {
+    "message": "全く分解レベルを与えないアイテム。",
+    "description": "[ExtendedDesynthesisWindow] Extended Desynthesis Window - Items that give no desynthesis levels."
+  },
+  "UiAdjustments@ExtendedDesynthesisWindow / LimitNote": {
+    "message": "注意: 一度に表示できるアイテム数は最大 140 個です。それを超えると切り捨てられます。",
+    "description": "[ExtendedDesynthesisWindow] Extended Desynthesis Window - Note: Only 140 items can be displayed at once, anything more will be cut off."
+  },
+  "UiAdjustments@ExtendedDesynthesisWindow / Name": {
+    "message": "拡張されたアイテム分解ウィンドウ",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ExtendedDesynthesisWindow / ShowAll": {
+    "message": "すべてのアイテムを表示するオプションを追加",
+    "description": "[ExtendedDesynthesisWindow] Extended Desynthesis Window - Add option to show all items"
+  },
+  "UiAdjustments@ExtendedDesynthesisWindow / YellowForSkillGain": {
+    "message": "スキル上昇の可能性を強調表示(黄色)",
+    "description": "[ExtendedDesynthesisWindow] Extended Desynthesis Window - Highlight potential skill gains (Yellow)"
+  },
+  "UiAdjustments@ExtraEstateTeleportation / Description": {
+    "message": "ハウステレポのサブコマンドをより多くの場所に追加します。",
+    "description": "[ExtraEstateTeleportation] Tweak Description"
+  },
+  "UiAdjustments@ExtraEstateTeleportation / Name": {
+    "message": "ハウステレポコマンドの追加",
+    "description": "[ExtraEstateTeleportation] Tweak Name"
+  },
+  "UiAdjustments@ExtraEstateTeleportation / PartyList": {
+    "message": "パーティーリスト",
+    "description": "[ExtraEstateTeleportation] Extra Estate Teleportation - Party List"
+  },
+  "UiAdjustments@ExtraEstateTeleportation / PartyMemberList": {
+    "message": "パーティーメンバーリスト(ソーシャルウィンドウ)",
+    "description": "[ExtraEstateTeleportation] Extra Estate Teleportation - Party Member List (Social window)"
+  },
+  "UiAdjustments@FadeUnavailableActions / Description": {
+    "message": "アイコンを暗くするのではなく、使用できないときに透明にします",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@FadeUnavailableActions / Name": {
+    "message": "利用できないアクションをフェードする",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@GearPositions / Description": {
+    "message": "キャラクター画面と装備確認画面の装備配置を見やすく変更します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@GearPositions / Name": {
+    "message": "装備の位置を調整",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideAchievementsNotifications / Description": {
+    "message": "ログイン直後やエリア移動後の達成間近なアチーブメントの通知を完全に非表示にします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideAchievementsNotifications / HideLogIn": {
+    "message": "ログイン直後の通知を非表示",
+    "description": "[HideAchievementsNotifications] Hide Achievements Nearing Completion Notifications - Hide the login notification."
+  },
+  "UiAdjustments@HideAchievementsNotifications / HideZoneIn": {
+    "message": "エリア移動後の通知を非表示",
+    "description": "[HideAchievementsNotifications] Hide Achievements Nearing Completion Notifications - Hide the zone-in notification."
+  },
+  "UiAdjustments@HideAchievementsNotifications / Name": {
+    "message": "達成間近なアチーブメントの通知を非表示",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideExperienceBar / Description": {
+    "message": "レベルが最大の場合、経験値バーを非表示にします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideExperienceBar / Name": {
+    "message": "レベルが最大の時に経験値バーを非表示",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideJobGauge / Description": {
+    "message": "戦闘中やコンテンツ中ではない場合、ジョブゲージを隠せるようにします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideJobGauge / Name": {
+    "message": "ジョブゲージを非表示",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideJobGauge / Show In Combat": {
+    "message": "戦闘中は表示",
+    "description": "[HideJobGauge] [Config] Show In Combat"
+  },
+  "UiAdjustments@HideJobGauge / Show In Duty": {
+    "message": "コンテンツ中は表示",
+    "description": "[HideJobGauge] [Config] Show In Duty"
+  },
+  "UiAdjustments@HideQualityWhenNoHQ / Description": {
+    "message": "HQ品や収集品にできないアイテムを作成している際、合成ウィンドウ内の品質バーを非表示にします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideQualityWhenNoHQ / Name": {
+    "message": "NO-HQアイテムを制作中は品質バーを非表示にします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideTargetCircle / Description": {
+    "message": "戦闘中やコンテンツ中ではない場合、ジョブゲージを隠せるようにします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideTargetCircle / Name": {
+    "message": "ターゲットサークルを非表示",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideUnwantedBanner / Description": {
+    "message": "「リテイナーベンチャー完了」「リーヴ受注」などのバナーを非表示にします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideUnwantedBanner / Name": {
+    "message": "不要なバナーを非表示",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ImprovedDutyFinderSettings / Description": {
+    "message": "デューティファインダーの設定をボタンに変えます。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ImprovedDutyFinderSettings / Name": {
+    "message": "デューティファインダー設定の改善",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ImprovedInterruptableCastbars / Description": {
+    "message": "割り込み可能なキャストバーの横にアイコンを表示します",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ImprovedInterruptableCastbars / Name": {
+    "message": "改善された割り込みキャストバー",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ImprovedWorldVisit / Description": {
+    "message": "ワールド間テレポメニューをシンプルにし、現在地をリストに表示します。",
+    "description": "[ImprovedWorldVisit] Tweak Description"
+  },
+  "UiAdjustments@ImprovedWorldVisit / Name": {
+    "message": "見やすいワールド間テレポメニュー",
+    "description": "[ImprovedWorldVisit] Tweak Name"
+  },
+  "UiAdjustments@InventoryGil / Description": {
+    "message": "リテイナー所持品ウィンドウと同様に、所持品ウィンドウに所持ギル数を表示します。",
+    "description": "[InventoryGil] Tweak Description"
+  },
+  "UiAdjustments@InventoryGil / Name": {
+    "message": "インベントリに所有ギルを表示",
+    "description": "[InventoryGil] Tweak Name"
+  },
+  "UiAdjustments@LargeCooldownCounter / Description": {
+    "message": "リキャスト時間の「大きく表示」の見た目を調整します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@LargeCooldownCounter / Edge Colour": {
+    "message": "エッジの色",
+    "description": "[LargeCooldownCounter] Adjust Large Cooldown Counter - Edge Colour"
+  },
+  "UiAdjustments@LargeCooldownCounter / Font": {
+    "message": "フォント",
+    "description": "[LargeCooldownCounter] Adjust Large Cooldown Counter - Font"
+  },
+  "UiAdjustments@LargeCooldownCounter / Font Size Adjust": {
+    "message": "フォントサイズの調整",
+    "description": "[LargeCooldownCounter] Adjust Large Cooldown Counter - Font Size Adjust"
+  },
+  "UiAdjustments@LargeCooldownCounter / Name": {
+    "message": "大きなクールタイムカウンター",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@LargeCooldownCounter / Out Of Range Colour": {
+    "message": "範囲外時の文字の色",
+    "description": "[LargeCooldownCounter] Adjust Large Cooldown Counter - Out Of Range Colour"
+  },
+  "UiAdjustments@LargeCooldownCounter / Out Of Range Edge Colour": {
+    "message": "範囲外時のエッジの色",
+    "description": "[LargeCooldownCounter] Adjust Large Cooldown Counter - Out Of Range Edge Colour"
+  },
+  "UiAdjustments@LargeCooldownCounter / Simple Mode": {
+    "message": "シンプルモード",
+    "description": "[LargeCooldownCounter] Large Cooldown Counter - Simple Mode"
+  },
+  "UiAdjustments@LargeCooldownCounter / SimpleModeDescription": {
+    "message": "クールダウンのチェックを古いものに戻しました。\nXIVComboの問題を修正しました。\n範囲外の場合、いくつかの問題があります。\nシンプルモードが有効な場合、テキストの色を変更できないようにしました。",
+    "description": "[LargeCooldownCounter] Large Cooldown Counter - Reverts to old cooldown checking.\nFixes issues with XIVCombo.\nHas some issues when out of range.\nCannot change colour of text with Simple Mode enabled."
+  },
+  "UiAdjustments@LargeCooldownCounter / Text Colour": {
+    "message": "文字の色",
+    "description": "[LargeCooldownCounter] Adjust Large Cooldown Counter - Text Colour"
+  },
+  "UiAdjustments@LimitBreakAdjustments / Description": {
+    "message": "リミットブレイクゲージの表示を調整します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@LimitBreakAdjustments / Name": {
+    "message": "制限区切りの調整",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@LimitTargetStatusEffects / Description": {
+    "message": "ターゲットに表示されるステータス効果の表示数を制限します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@LimitTargetStatusEffects / LimitOnlyInCombat": {
+    "message": "戦闘中のみ制限##LimitOnlyInCombat",
+    "description": "[LimitTargetStatusEffects] Limit Target Status Effects - Only limit in combat##LimitOnlyInCombat"
+  },
+  "UiAdjustments@LimitTargetStatusEffects / Name": {
+    "message": "ターゲットのステータス効果の表示数を制限",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@LimitTargetStatusEffects / NbStatusEffects": {
+    "message": "表示されるステータス効果の数##nbStatusEffectsDisplayed",
+    "description": "[LimitTargetStatusEffects] Limit Target Status Effects - Number of status effects displayed##nbStatusEffectsDisplayed"
+  },
+  "UiAdjustments@LockWindowPosition / Description": {
+    "message": "ほぼすべてのUIウィンドウの位置を固定できるようにします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@LockWindowPosition / HelpMessage": {
+    "message": "ウィンドウのコンテキストメニューからウィンドウ位置を固定・解除できます (ウィンドウを右クリック)。",
+    "description": "[LockWindowPosition] Lock Window Positions - You can lock or unlock windows from their context menu (right click the window)."
+  },
+  "UiAdjustments@LockWindowPosition / Lock Window Position": {
+    "message": "ウィンドウの位置を固定",
+    "description": "[LockWindowPosition] Lock Window Positions - Lock Window Position"
+  },
+  "UiAdjustments@LockWindowPosition / Name": {
+    "message": "ウィンドウ位置の固定",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@LockWindowPosition / Unlock": {
+    "message": "解除",
+    "description": "[LockWindowPosition] Lock Window Positions - Unlock"
+  },
+  "UiAdjustments@LockWindowPosition / Unlock Window Position": {
+    "message": "ウィンドウ位置の固定を解除",
+    "description": "[LockWindowPosition] Lock Window Positions - Unlock Window Position"
+  },
+  "UiAdjustments@LootWindowDuplicateUniqueItemIndicator / Description": {
+    "message": "アイテムを手に入れることができず、すでにアイテムをアンロックしたままにします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@LootWindowDuplicateUniqueItemIndicator / Name": {
+    "message": "強化された戦利品ウィンドウ",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@MarketEnhancements / Description": {
+    "message": "NPCとの売買の方が有利なアイテムを強調します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@MarketEnhancements / Highlight items that can be purchased from an NPC for cheaper. (Red)": {
+    "message": "NPCからより安く購入できるアイテムを強調表示します。(赤)",
+    "description": "[MarketEnhancements] [Config] Highlight items that can be purchased from an NPC for cheaper. (Red)"
+  },
+  "UiAdjustments@MarketEnhancements / Highlight items that can be sold to NPC for more. (Green)": {
+    "message": "NPCにより高い価格で売ることが出来るアイテムを強調表示します。(緑)",
+    "description": "[MarketEnhancements] [Config] Highlight items that can be sold to NPC for more. (Green)"
+  },
+  "UiAdjustments@MarketEnhancements / Include tax in single price.": {
+    "message": "単体価格に税を含める",
+    "description": "[MarketEnhancements] [Config] Include tax in single price."
+  },
+  "UiAdjustments@MarketEnhancements / Include tax in total price.": {
+    "message": "合計価格に税を含める",
+    "description": "[MarketEnhancements] [Config] Include tax in total price."
+  },
+  "UiAdjustments@MarketEnhancements / Name": {
+    "message": "マーケットの機能強化",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@MinimapAdjustments / Description": {
+    "message": "ミニマップに表示する要素を調整します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@MinimapAdjustments / Name": {
+    "message": "ミニマップのカスタム",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@NamePlateIconSpacing / Description": {
+    "message": "ネームプレート上のステータスアイコンと文字名の間の距離が長くなります。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@NamePlateIconSpacing / Name": {
+    "message": "名前プレートアイコンの間隔",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@NotificationToastAdjustments / Description": {
+    "message": "様々な局面で画面中央に表示される通知の位置を変更、または非表示にします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@NotificationToastAdjustments / Name": {
+    "message": "ポップアップ通知の調整",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@OldNameplatesTweak / Description": {
+    "message": "ネームプレートの変更を元に戻します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@OldNameplatesTweak / Name": {
+    "message": "旧ネームプレート表示",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ParameterBarAdjustments / AutoHideMp": {
+    "message": "MPを使用しないジョブではMPバーを非表示",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - Hide MP Bar on jobs that don't use MP"
+  },
+  "UiAdjustments@ParameterBarAdjustments / CP Bar Color": {
+    "message": "CPバーの色",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - CP Bar Color"
+  },
+  "UiAdjustments@ParameterBarAdjustments / Description": {
+    "message": "パラメータバー(HPとMPバー)の一部の位置を変更、または非表示にします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ParameterBarAdjustments / GP Bar Color": {
+    "message": "GPバーの色",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - GP Bar Color"
+  },
+  "UiAdjustments@ParameterBarAdjustments / Hide 'HP' Text": {
+    "message": "'HP' テキストを非表示",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - Hide 'HP' Text"
+  },
+  "UiAdjustments@ParameterBarAdjustments / Hide 'MP' Text": {
+    "message": "'MP' テキストを非表示",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - Hide 'MP' Text"
+  },
+  "UiAdjustments@ParameterBarAdjustments / Hide HP Bar": {
+    "message": "HPバーを非表示",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - Hide HP Bar"
+  },
+  "UiAdjustments@ParameterBarAdjustments / Hide HP Value": {
+    "message": "HPの値を非表示",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - Hide HP Value"
+  },
+  "UiAdjustments@ParameterBarAdjustments / Hide MP Bar": {
+    "message": "MPバーを非表示",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - Hide MP Bar"
+  },
+  "UiAdjustments@ParameterBarAdjustments / Hide MP Value": {
+    "message": "MP の値を非表示",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - Hide MP Value"
+  },
+  "UiAdjustments@ParameterBarAdjustments / Hide Target Cycling": {
+    "message": "ターゲットサークルを非表示",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - Hide Target Cycling"
+  },
+  "UiAdjustments@ParameterBarAdjustments / HP Bar Color": {
+    "message": "HPバーの色",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - HP Bar Color"
+  },
+  "UiAdjustments@ParameterBarAdjustments / MP Bar Color": {
+    "message": "MPバーの色",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - MP Bar Color"
+  },
+  "UiAdjustments@ParameterBarAdjustments / Name": {
+    "message": "パラメータバーの調整",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@PartyListStatusTimers / Description": {
+    "message": "パーティリスト上のステータス効果に残時間を表示します。",
+    "description": "[PartyListStatusTimers] Tweak Description"
+  },
+  "UiAdjustments@PartyListStatusTimers / Name": {
+    "message": "パーティリストステータスタイマー",
+    "description": "[PartyListStatusTimers] Tweak Name"
+  },
+  "UiAdjustments@RecolorOwnStatusTimers / Description": {
+    "message": "ステータスタイマーの色のカラーリングを許可します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@RecolorOwnStatusTimers / Name": {
+    "message": "自分のステータスタイマーをカラーにする",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ReducedDeepDungeonInfo / Description": {
+    "message": "ディープダンジョン内の情報ウィンドウから冗長な情報を削除します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ReducedDeepDungeonInfo / Name": {
+    "message": "ディープダンジョン情報の削減",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@RememberTitleSorting / Description": {
+    "message": "称号リストで選択した並び替え順を保存します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@RememberTitleSorting / Name": {
+    "message": "称号リストの並び替えを保存",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@RemoveCommunityFinder / Description": {
+    "message": "ソーシャルウィンドウのコミュニティを探すボタンを非表示にします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@RemoveCommunityFinder / Name": {
+    "message": "コミュニティを探すボタンを削除",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@RemoveQuestMarkerLimit / Description": {
+    "message": "マップとミニマップに、5つ以上のアクティブなクエストマーカーを表示できるようにします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@RemoveQuestMarkerLimit / Name": {
+    "message": "クエストマーカーの上限を解除",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ResizeExperienceBar / Description": {
+    "message": "経験値バーの水平方向の大きさを変更します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ResizeExperienceBar / Name": {
+    "message": "経験値バーのサイズ変更",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@SellMaxTripleTriadCards / Description": {
+    "message": "トリプルトライアドカード処分時の数をデフォルトで手持ちのカード枚数に設定します。",
+    "description": "[SellMaxTripleTriadCards] Tweak Description"
+  },
+  "UiAdjustments@SellMaxTripleTriadCards / Name": {
+    "message": "不要カードの処分時にデフォルトで最大値に設定",
+    "description": "[SellMaxTripleTriadCards] Tweak Name"
+  },
+  "UiAdjustments@ShiftTargetCastBarText / Description": {
+    "message": "ターゲットの詠唱バー上のテキストを移動し、見やすくします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ShiftTargetCastBarText / Name": {
+    "message": "ターゲット詠唱バーのテキストを移動",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ShowShieldOnHPBar / Description": {
+    "message": "HPバーにおおよそのバリア量を表示します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ShowShieldOnHPBar / Name": {
+    "message": "HPバーにバリアを表示",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@SmartNameplates / Description": {
+    "message": "特定の条件下で、戦闘中に他のプレイヤーのネームプレートを非表示にします。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@SmartNameplates / Ignore Alliance Members": {
+    "message": "アライアンスメンバーを無視",
+    "description": "[SmartNameplates] Smart Nameplates - Ignore Alliance Members"
+  },
+  "UiAdjustments@SmartNameplates / Ignore Dead Players": {
+    "message": "戦闘不能になったプレイヤーを無視",
+    "description": "[SmartNameplates] Smart Nameplates - Ignore Dead Players"
+  },
+  "UiAdjustments@SmartNameplates / Ignore Friends": {
+    "message": "フレンドを無視",
+    "description": "[SmartNameplates] Smart Nameplates - Ignore Friends"
+  },
+  "UiAdjustments@SmartNameplates / Ignore Party Members": {
+    "message": "パーティーメンバーを無視",
+    "description": "[SmartNameplates] Smart Nameplates - Ignore Party Members"
+  },
+  "UiAdjustments@SmartNameplates / Ignore Targeted Players": {
+    "message": "ターゲット中のプレイヤーを無視",
+    "description": "[SmartNameplates] Smart Nameplates - Ignore Targeted Players"
+  },
+  "UiAdjustments@SmartNameplates / IgnorePlayersNote": {
+    "message": "以下のオプションは特定のプレーヤーに対する拡張機能を無効にします。",
+    "description": "[SmartNameplates] Smart Nameplates - The following options will disable the tweak for certain players."
+  },
+  "UiAdjustments@SmartNameplates / Name": {
+    "message": "スマートネームプレート",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@SmartNameplates / Show HP": {
+    "message": "HPを表示",
+    "description": "[SmartNameplates] Smart Nameplates - Show HP"
+  },
+  "UiAdjustments@StopCraftingButton / Description": {
+    "message": "作業台の合成ボタンを変更すると、作業を切り替えたり、作業位置から立ち上がることができます。 クラフトログを閉じずにクラフトを止められるようにする。",
+    "description": "[StopCraftingButton] Tweak Description"
+  },
+  "UiAdjustments@StopCraftingButton / Name": {
+    "message": "加工ログの改善",
+    "description": "[StopCraftingButton] Tweak Name"
+  },
+  "UiAdjustments@SubmarineDestinationLetters / Description": {
+    "message": "標準のA-Zレタリングを使用して、他のツールで簡単に使用できる潜水艦の宛先を特定します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@SubmarineDestinationLetters / Name": {
+    "message": "手紙で潜水艦の目的地にラベルを付ける",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@TargetCastbarCountdown / Description": {
+    "message": "ターゲットアビリティキャストに残り時間を表示します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@TargetCastbarCountdown / Name": {
+    "message": "ターゲットのキャストバーのカウント",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@TargetHP / Description": {
+    "message": "ターゲットのHPの正確な(または丸められた)値を表示します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@TargetHP / Name": {
+    "message": "ターゲットのHP",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@TimerOnDutyWaiting / Description": {
+    "message": "コンテンツ突入選択後の待機画面で、45秒のカウントダウンを表示します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@TimerOnDutyWaiting / Name": {
+    "message": "コンテンツ突入待機時のタイマー",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@TimeUntilGpMax / Description": {
+    "message": "ギャザラーの時、GPが最大になるまでの推定時間を表示します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@TimeUntilGpMax / Name": {
+    "message": "GPが最大になるまでの時間",
+    "description": "Japanese edition"
+  },
+  "Unhide Tweak": {
+    "message": "拡張機能を再表示する",
+    "description": "Unhide Tweak - Unhide Tweak"
+  },
+  "All Tweaks": {
+    "message": "すべての機能",
+    "description": "All Tweaks Tab Header"
+  },
+  "AutoLockHotbar / Lock at beginning of combat.": {
+    "message": "戦闘開始時にロックする",
+    "description": "[AutoLockHotbar] [Config] Lock at beginning of combat."
+  },
+  "AutoLockHotbar / Lock Cross Hotbar": {
+    "message": "クロスホットバーをロックする",
+    "description": "[AutoLockHotbar] [Config] Lock Cross Hotbar"
+  },
+  "AutoLockHotbar / Lock when changing zone.": {
+    "message": "エリア移動時にロックする",
+    "description": "[AutoLockHotbar] [Config] Lock when changing zone."
+  },
+  "AutoLockHotbar / Unlock when combat ends.": {
+    "message": "戦闘終了時にロックを解除する",
+    "description": "[AutoLockHotbar] [Config] Unlock when combat ends."
+  },
+  "AutoRefreshMaterialList / Description": {
+    "message": "素材一覧とレシピツリーの画面を自動更新します。",
+    "description": "Japanese edition"
+  },
+  "AutoRefreshMaterialList / Name": {
+    "message": "素材一覧の自動更新",
+    "description": "Japanese edition"
+  },
+  "Category / Chat": {
+    "message": "チャット",
+    "description": "Tweak Category"
+  },
+  "Category / Command": {
+    "message": "コマンド",
+    "description": "Tweak Category"
+  },
+  "Category / Experimental": {
+    "message": "試験的な機能",
+    "description": "Tweak Category"
+  },
+  "Category / Other": {
+    "message": "その他",
+    "description": "Tweak Category"
+  },
+  "Category / QoL": {
+    "message": "利便性",
+    "description": "Tweak Category"
+  },
+  "Category / Tooltip": {
+    "message": "ツールチップ",
+    "description": "Tweak Category"
+  },
+  "Category / UI": {
+    "message": "画面表示",
+    "description": "Tweak Category"
+  },
+  "ChatTweaks@CaseInsensitiveCommands / Description": {
+    "message": "大文字・小文字を区別せずテキストコマンドを入力できます。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@CaseInsensitiveCommands / Name": {
+    "message": "テキストコマンドの大文字・小文字を無視",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@CaseInsensitiveCommands / Resolve Dalamud-provided commands)": {
+    "message": "Dalamudが追加するコマンドにも適用する",
+    "description": "[CaseInsensitiveCommands] [Config] Resolve Dalamud-provided commands)"
+  },
+  "ChatTweaks@ChatNameColours / ApplyDefaultColour": {
+    "message": "未登録のプレイヤーに指定した色を使用する",
+    "description": "[ChatNameColours] Chat Name Colours - Use a specific colour for unlisted players"
+  },
+  "ChatTweaks@ChatNameColours / LegacyColours": {
+    "message": "従来の色の制限を使用する",
+    "description": "[ChatNameColours] Chat Name Colours - Use old colour limits."
+  },
+  "ChatTweaks@ChatSoundsEverywhere / Description": {
+    "message": "チャンネルを問わず <se.#> のチャット効果音を再生します。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@ChatSoundsEverywhere / Name": {
+    "message": "全チャットで効果音を再生",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@DisableAutoChatInputs / Disable <flag> when setting map flags.": {
+    "message": "マップフラッグ設定時の <flag> を無効にする",
+    "description": "[DisableAutoChatInputs] [Config] Disable <flag> when setting map flags."
+  },
+  "ChatTweaks@DisableAutoChatInputs / Disable <item> when linking items.": {
+    "message": "アイテムリンク挿入時の <item> を無効にする",
+    "description": "[DisableAutoChatInputs] [Config] Disable <item> when linking items."
+  },
+  "ChatTweaks@DisableAutoChatInputs / Disable <pfinder> when linking party finder.": {
+    "message": "パーティ募集リンク挿入時の <pfinder> を無効にする",
+    "description": "[DisableAutoChatInputs] [Config] Disable <pfinder> when linking party finder."
+  },
+  "ChatTweaks@DisableAutoChatInputs / Disable <quest> when linking quests.": {
+    "message": "クエストリンク挿入時の <quest> を無効にする",
+    "description": "[DisableAutoChatInputs] [Config] Disable <quest> when linking quests."
+  },
+  "ChatTweaks@DisableAutoChatInputs / Disable <status> when linking a status.": {
+    "message": "ステータスリンク挿入時の <status> を無効にする",
+    "description": "[DisableAutoChatInputs] [Config] Disable <status> when linking a status."
+  },
+  "ChatTweaks@EchoStorySelection / Display Character Name": {
+    "message": "キャラクター名を表示",
+    "description": "[EchoStorySelection] [Config] Display Character Name"
+  },
+  "ChatTweaks@ExpGainLevelPercent / Description": {
+    "message": "獲得経験値のチャット表示に、次のレベルまでの経験値に対する割合を追加します。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@ExpGainLevelPercent / Name": {
+    "message": "獲得経験値にレベルアップまでの割合を表示",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@PrintSearchComment / Description": {
+    "message": "装備確認したプレイヤーのサーチコメントをチャットに表示します。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@PrintSearchComment / Name": {
+    "message": "サーチコメントをチャットに表示",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@StickyShoutChat / Description": {
+    "message": "シャウト送信後に別のチャンネルへ自動で戻らないようにします。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@StickyShoutChat / Name": {
+    "message": "シャウトチャンネルを維持",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@ZoomedChatCustomization / Description": {
+    "message": "拡大チャットのサイズと位置を調整できます。",
+    "description": "Japanese edition"
+  },
+  "ChatTweaks@ZoomedChatCustomization / Name": {
+    "message": "拡大チャットの表示設定",
+    "description": "Japanese edition"
+  },
+  "ClickableAlarm / Description": {
+    "message": "サーバー情報バーのアラームアイコンをクリックすると、アラーム画面を開きます。",
+    "description": "Japanese edition"
+  },
+  "ClickableAlarm / Name": {
+    "message": "アラームアイコンのクリック対応",
+    "description": "Japanese edition"
+  },
+  "CommandAlias / \nEnabled": {
+    "message": "\n有効",
+    "description": "[CommandAlias] Command Alias - \nEnabled"
+  },
+  "CommandAlias / \nInput Command": {
+    "message": "\n入力コマンド",
+    "description": "[CommandAlias] Command Alias - \nInput Command"
+  },
+  "CommandAlias / \nOutput Command": {
+    "message": "\n実行コマンド",
+    "description": "[CommandAlias] Command Alias - \nOutput Command"
+  },
+  "CommandAlias / Alt\nMode": {
+    "message": "代替\n方式",
+    "description": "[CommandAlias] Command Alias - Alt\nMode"
+  },
+  "CustomDefaultQuantity / Description": {
+    "message": "「個数指定で取り出す」「個数指定で預ける」を選んだときの初期数量を変更できます。",
+    "description": "Japanese edition"
+  },
+  "CustomDefaultQuantity / Name": {
+    "message": "預け入れ・取り出しの初期数量",
+    "description": "Japanese edition"
+  },
+  "CustomizeGroupPoseCameraControl / Description": {
+    "message": "グループポーズ中のカメラ操作を調整できます。",
+    "description": "Japanese edition"
+  },
+  "CustomizeGroupPoseCameraControl / Name": {
+    "message": "グループポーズのカメラ操作設定",
+    "description": "Japanese edition"
+  },
+  "DataCentreOnTitleScreen / Show Service Account Number": {
+    "message": "サービスアカウント番号を表示",
+    "description": "[DataCentreOnTitleScreen] [Config] Show Service Account Number"
+  },
+  "DisableCameraCulling / Description": {
+    "message": "カメラが近づいてもキャラクターを非表示にしません。",
+    "description": "Japanese edition"
+  },
+  "DisableCameraCulling / Name": {
+    "message": "カメラ接近時のキャラクター非表示を解除",
+    "description": "Japanese edition"
+  },
+  "DisableClickTargeting / PlayerHeader": {
+    "message": "プレイヤー\nのみ",
+    "description": "[DisableClickTargeting] Disable Click Targeting - Only\nPlayers"
+  },
+  "DisableNoviceNetworkAutoSwitch / Description": {
+    "message": "ログインやワールド移動時にビギナーチャンネルが自動選択されないようにします。",
+    "description": "Japanese edition"
+  },
+  "DisableNoviceNetworkAutoSwitch / Name": {
+    "message": "ビギナーチャンネルの自動選択を無効化",
+    "description": "Japanese edition"
+  },
+  "DutyTimer / Description": {
+    "message": "コンテンツクリア時に所要時間を表示します。",
+    "description": "Japanese edition"
+  },
+  "DutyTimer / Name": {
+    "message": "コンテンツ所要時間",
+    "description": "Japanese edition"
+  },
+  "EmoteLogServerBarEntry / Description": {
+    "message": "エモートログの有効・無効をサーバー情報バーに表示します。",
+    "description": "Japanese edition"
+  },
+  "EmoteLogServerBarEntry / Name": {
+    "message": "サーバー情報バーにエモートログ状態を表示",
+    "description": "Japanese edition"
+  },
+  "Enabled Tweaks": {
+    "message": "有効な機能",
+    "description": "Enabled Tweaks Tab Header"
+  },
+  "EnsureTooltipRemainsOnScreen / Description": {
+    "message": "ツールチップが画面下にはみ出さないようにします。説明を追加する機能と併用すると便利です。",
+    "description": "Japanese edition"
+  },
+  "EnsureTooltipRemainsOnScreen / Name": {
+    "message": "ツールチップを画面内に収める",
+    "description": "Japanese edition"
+  },
+  "EnsureTooltipRemainsOnScreen / Padding": {
+    "message": "余白",
+    "description": "[EnsureTooltipRemainsOnScreen] [Config] Padding"
+  },
+  "EquipFromHotbar / Description": {
+    "message": "ホットバーに登録したアイテムを装備できるようにします。",
+    "description": "Japanese edition"
+  },
+  "EquipFromHotbar / Name": {
+    "message": "ホットバーから装備",
+    "description": "Japanese edition"
+  },
+  "EquipJobCommand / Description": {
+    "message": "指定したクラス・ジョブのギアセットに切り替えるコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "EquipJobCommand / Name": {
+    "message": "ジョブ着替えコマンド",
+    "description": "Japanese edition"
+  },
+  "EquipJobCommand / PriorityHelp": {
+    "message": "クラスとジョブをまとめて指定する場合に便利です。（例：/equipjob pld gla）",
+    "description": "[EquipJobCommand] Allow Priority Tooltip"
+  },
+  "EquipJobCommand / PriorityName": {
+    "message": "ジョブの優先順位を指定できるようにする（略称のみ）",
+    "description": "[EquipJobCommand] Allow Priority Config Option"
+  },
+  "ExitGame / Description": {
+    "message": "Alt+F4を押すとゲームを通常の手順で終了します。",
+    "description": "Japanese edition"
+  },
+  "ExitGame / Name": {
+    "message": "Alt+F4でゲーム終了",
+    "description": "Japanese edition"
+  },
+  "FurnitureClocksCustomTime / Description": {
+    "message": "クロノメーター系の時計家具が表示する時刻を変更します。",
+    "description": "Japanese edition"
+  },
+  "FurnitureClocksCustomTime / Mode": {
+    "message": "動作モード",
+    "description": "[FurnitureClocksCustomTime] [Config] Mode"
+  },
+  "FurnitureClocksCustomTime / Name": {
+    "message": "家具の時計の時刻変更",
+    "description": "Japanese edition"
+  },
+  "GcArmyChemistryAvailable / Description": {
+    "message": "新しいジンクスを適用できる小隊員にアイコンを表示します。",
+    "description": "Japanese edition"
+  },
+  "GcArmyChemistryAvailable / Name": {
+    "message": "小隊員のジンクス更新アイコン",
+    "description": "Japanese edition"
+  },
+  "GearsetSaveCurrent / Description": {
+    "message": "現在の装備で使用中のギアセットを更新します。",
+    "description": "Japanese edition"
+  },
+  "GearsetSaveCurrent / Name": {
+    "message": "ギアセット更新コマンド",
+    "description": "Japanese edition"
+  },
+  "General Options / Analytics Opt Out": {
+    "message": "利用状況の送信を拒否する",
+    "description": "General Options / Analytics Opt Out - Opt out of metrics"
+  },
+  "General Options / Festive Decorations": {
+    "message": "季節の装飾",
+    "description": "General Options / Festive Decorations - Festive Decorations"
+  },
+  "General Options / Use Fuzzy Search": {
+    "message": "あいまい検索を使用する",
+    "description": "General Options / Use Fuzzy Search - Use fuzzy search"
+  },
+  "General Options / Visible Category Tabs": {
+    "message": "表示するカテゴリタブ",
+    "description": "General Options / Visible Category Tabs - Visible Category Tabs"
+  },
+  "HotkeyHelper.Set": {
+    "message": "キーバインドの設定",
+    "description": "HotkeyHelper.Set - Set Keybind"
+  },
+  "ImprovedCraftingLog / Description": {
+    "message": "作業台の合成ボタンを変更すると、作業を切り替えたり、作業位置から立ち上がることができます。 クラフトログを閉じずにクラフトを止められるようにする。",
+    "description": "Japanese edition"
+  },
+  "ImprovedCraftingLog / Name": {
+    "message": "加工ログの改善",
+    "description": "Japanese edition"
+  },
+  "ImprovedSentMessageHistory / Description": {
+    "message": "チャットで誤って上キーを押した際に書きかけの文章を復元できます。保存する履歴数も増やせます。",
+    "description": "Japanese edition"
+  },
+  "ImprovedSentMessageHistory / Name": {
+    "message": "送信メッセージ履歴の改善",
+    "description": "Japanese edition"
+  },
+  "IncreaseChatBubbleLines / Description": {
+    "message": "チャットの吹き出しに最大7行まで表示できます。",
+    "description": "Japanese edition"
+  },
+  "IncreaseChatBubbleLines / Max Lines": {
+    "message": "最大行数",
+    "description": "[IncreaseChatBubbleLines] [Config] Max Lines"
+  },
+  "IncreaseChatBubbleLines / Name": {
+    "message": "チャット吹き出しの最大行数を増加",
+    "description": "Japanese edition"
+  },
+  "LeaveDutyCommand / Description": {
+    "message": "現在のコンテンツから退出するコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "LeaveDutyCommand / Name": {
+    "message": "コンテンツ退出コマンド",
+    "description": "Japanese edition"
+  },
+  "LevelingDungeonCommand / Description": {
+    "message": "現在のレベルで参加できる最も高レベルのレベリングダンジョンを開くコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "LevelingDungeonCommand / Name": {
+    "message": "レベリングダンジョン選択コマンド",
+    "description": "Japanese edition"
+  },
+  "MoveCutsceneTalk / Description": {
+    "message": "カットシーン中の会話ウィンドウの位置を変更できます。",
+    "description": "Japanese edition"
+  },
+  "MoveCutsceneTalk / Name": {
+    "message": "カットシーンの会話位置変更",
+    "description": "Japanese edition"
+  },
+  "NoCharacterNotFoundWarning / Description": {
+    "message": "「最後にログアウトしたキャラクターが現在のデータセンターで見つかりません」という案内を表示しません。",
+    "description": "Japanese edition"
+  },
+  "NoCharacterNotFoundWarning / Name": {
+    "message": "「キャラクターが見つかりません」を非表示",
+    "description": "Japanese edition"
+  },
+  "OpenEstateAccess / Description": {
+    "message": "現在のハウスの入室設定を開くコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "OpenEstateAccess / Name": {
+    "message": "ハウス入室設定コマンド",
+    "description": "Japanese edition"
+  },
+  "PhantomJobCommand / Description": {
+    "message": "クレセントアイル内でサポートジョブを変更するコマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "PhantomJobCommand / Name": {
+    "message": "サポートジョブ変更コマンド",
+    "description": "Japanese edition"
+  },
+  "RememberSelectedWorld / Description": {
+    "message": "データセンターごとに最後に選択したワールドを記憶します。",
+    "description": "Japanese edition"
+  },
+  "RememberSelectedWorld / Name": {
+    "message": "選択したワールドを記憶",
+    "description": "Japanese edition"
+  },
+  "RemoveClientLimit / Description": {
+    "message": "FFXIVクライアントを通常の上限である2つより多く起動できるようにします。",
+    "description": "Japanese edition"
+  },
+  "RemoveClientLimit / Name": {
+    "message": "クライアント起動数の制限解除",
+    "description": "Japanese edition"
+  },
+  "SearchableFriendList / CTRL-F to focus search": {
+    "message": "Ctrl+Fで検索欄に移動する",
+    "description": "[SearchableFriendList] [Config] CTRL-F to focus search"
+  },
+  "SearchableFriendList / Description": {
+    "message": "フレンドリストに検索欄を追加します。",
+    "description": "Japanese edition"
+  },
+  "SearchableFriendList / Ignore selected filter group": {
+    "message": "選択中のフィルターグループを無視する",
+    "description": "[SearchableFriendList] [Config] Ignore selected filter group"
+  },
+  "SearchableFriendList / Name": {
+    "message": "フレンドリストの検索",
+    "description": "Japanese edition"
+  },
+  "SortWorldList / Description": {
+    "message": "データセンタートラベルのワールド一覧がランダムに並ばないようにします。",
+    "description": "Japanese edition"
+  },
+  "SortWorldList / Name": {
+    "message": "ワールド移動先の並び順を固定",
+    "description": "Japanese edition"
+  },
+  "SpecialCharacterInput / Description": {
+    "message": "テキスト入力欄に特殊文字を挿入する画面を追加します。",
+    "description": "Japanese edition"
+  },
+  "SpecialCharacterInput / Name": {
+    "message": "特殊文字入力",
+    "description": "Japanese edition"
+  },
+  "TalkAdjustments / Description": {
+    "message": "NPC会話ウィンドウの表示を細かく調整できます。",
+    "description": "Japanese edition"
+  },
+  "TalkAdjustments / Name": {
+    "message": "会話ウィンドウの調整",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@AdditionalItemInfo / Additional Data": {
+    "message": "追加情報",
+    "description": "[AdditionalItemInfo] [Config] Additional Data"
+  },
+  "TooltipTweaks@AdditionalItemInfo / Craftable": {
+    "message": "製作可能",
+    "description": "[AdditionalItemInfo] [Config] Craftable"
+  },
+  "TooltipTweaks@AdditionalItemInfo / Gearsets": {
+    "message": "ギアセット",
+    "description": "[AdditionalItemInfo] [Config] Gearsets"
+  },
+  "TooltipTweaks@AdditionalItemInfo / Grand Company Seal Value": {
+    "message": "軍票交換数",
+    "description": "[AdditionalItemInfo] [Config] Grand Company Seal Value"
+  },
+  "TooltipTweaks@AdditionalItemInfo / No Sell List": {
+    "message": "販売リストがありません",
+    "description": "[AdditionalItemInfo] [Config] No Sell List"
+  },
+  "TooltipTweaks@CollectableRewards / Colour scrip values": {
+    "message": "スクリップの数値に色を付ける",
+    "description": "[CollectableRewards] [Config] Colour scrip values"
+  },
+  "TooltipTweaks@CollectableRewards / Description": {
+    "message": "収集品納品対象のアイテムを確認すると、報酬を表示します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@CollectableRewards / Name": {
+    "message": "収集品の報酬表示",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@CraftingActionInfo / Show Results Preview": {
+    "message": "結果のプレビューを表示",
+    "description": "[CraftingActionInfo] [Config] Show Results Preview"
+  },
+  "TooltipTweaks@GlamItemNames / Description": {
+    "message": "実際のアイテム名の下に、ミラージュで使用しているアイテム名を表示します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@GlamItemNames / Name": {
+    "message": "アイテム名にミラージュ装備を表示",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@HideTooltipsInCombat / Hide Action Tooltips in Combat": {
+    "message": "戦闘中のアクション説明を隠す",
+    "description": "[HideTooltipsInCombat] [Config] Hide Action Tooltips in Combat"
+  },
+  "TooltipTweaks@HideTooltipsInCombat / Hide Action Tooltips out of Combat": {
+    "message": "非戦闘時のアクション説明を隠す",
+    "description": "[HideTooltipsInCombat] [Config] Hide Action Tooltips out of Combat"
+  },
+  "TooltipTweaks@HideTooltipsInCombat / Hide Cross Bar Hints in Combat": {
+    "message": "戦闘中のクロスホットバーガイドを隠す",
+    "description": "[HideTooltipsInCombat] [Config] Hide Cross Bar Hints in Combat"
+  },
+  "TooltipTweaks@HideTooltipsInCombat / Hide Cross Bar Hints out of Combat": {
+    "message": "非戦闘時のクロスホットバーガイドを隠す",
+    "description": "[HideTooltipsInCombat] [Config] Hide Cross Bar Hints out of Combat"
+  },
+  "TooltipTweaks@HideTooltipsInCombat / Hide Item Tooltips in Combat": {
+    "message": "戦闘中のアイテム説明を隠す",
+    "description": "[HideTooltipsInCombat] [Config] Hide Item Tooltips in Combat"
+  },
+  "TooltipTweaks@HideTooltipsInCombat / Hide Item Tooltips out of Combat": {
+    "message": "非戦闘時のアイテム説明を隠す",
+    "description": "[HideTooltipsInCombat] [Config] Hide Item Tooltips out of Combat"
+  },
+  "TooltipTweaks@HideTooltipsInCombat / Hide Pop-up Help in Combat": {
+    "message": "戦闘中のポップアップヘルプを隠す",
+    "description": "[HideTooltipsInCombat] [Config] Hide Pop-up Help in Combat"
+  },
+  "TooltipTweaks@HideTooltipsInCombat / Hide Pop-up Help out of Combat": {
+    "message": "非戦闘時のポップアップヘルプを隠す",
+    "description": "[HideTooltipsInCombat] [Config] Hide Pop-up Help out of Combat"
+  },
+  "TooltipTweaks@ItemHotkeys / NoHelpText": {
+    "message": "ツールチップにホットキーのヘルプを表示しない",
+    "description": "[ItemHotkeys] Item Hotkeys - Don't show hotkey help on Tooltip"
+  },
+  "TooltipTweaks@ItemHotkeys.CopyNameHotkey / Name": {
+    "message": "アイテム名をコピー",
+    "description": "[Item Hotkey - CopyNameHotkey] Tweak Name"
+  },
+  "TooltipTweaks@ItemHotkeys.OpenCraftingRecipe / Name": {
+    "message": "製作レシピを開く",
+    "description": "[Item Hotkey - OpenCraftingRecipe] Tweak Name"
+  },
+  "TooltipTweaks@ItemHotkeys.ViewOnConsoleGamesWiki / Name": {
+    "message": "Console Games Wikiで確認",
+    "description": "[Item Hotkey - ViewOnConsoleGamesWiki] Tweak Name"
+  },
+  "TooltipTweaks@ItemHotkeys.ViewOnEriones / Name": {
+    "message": "エリオネスで確認",
+    "description": "[Item Hotkey - ViewOnEriones] Tweak Name"
+  },
+  "TooltipTweaks@ItemHotkeys.ViewOnGamerEscape / Name": {
+    "message": "Gamer Escapeで確認",
+    "description": "[Item Hotkey - ViewOnGamerEscape] Tweak Name"
+  },
+  "TooltipTweaks@ItemHotkeys.ViewOnGarlandTools / Name": {
+    "message": "Garland Toolsで表示",
+    "description": "[Item Hotkey - ViewOnGarlandTools] Tweak Name"
+  },
+  "TooltipTweaks@ItemHotkeys.ViewOnTeamcraft / Name": {
+    "message": "Teamcraftで表示",
+    "description": "[Item Hotkey - ViewOnTeamcraft] Tweak Name"
+  },
+  "TooltipTweaks@ItemHotkeys.ViewOnUniversalis / Name": {
+    "message": "Universalisで確認",
+    "description": "[Item Hotkey - ViewOnUniversalis] Tweak Name"
+  },
+  "TooltipTweaks@LogosTooltip / Description": {
+    "message": "未鑑定ロゴスシャードから入手できるロゴス・ミームをツールチップに表示します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@LogosTooltip / Name": {
+    "message": "ロゴスアクションのツールチップ",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@ShowItemID / Show Original Action ID": {
+    "message": "元のアクションIDを表示",
+    "description": "[ShowItemID] [Config] Show Original Action ID"
+  },
+  "TooltipTweaks@ShowItemID / Show Resolved Action ID": {
+    "message": "実際に実行するアクションIDを表示",
+    "description": "[ShowItemID] [Config] Show Resolved Action ID"
+  },
+  "TooltipTweaks@TrackOutfits / Description": {
+    "message": "アイテムを衣装として登録済みかどうかを表示します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@TrackOutfits / Name": {
+    "message": "衣装の登録状況",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@UnlockablePreviews / Description": {
+    "message": "マウント・ミニオン・髪型のプレビュー画像を表示します。",
+    "description": "Japanese edition"
+  },
+  "TooltipTweaks@UnlockablePreviews / Name": {
+    "message": "習得アイテムのプレビュー",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@AddNumberSeparators / Description": {
+    "message": "UIに表示される各種の数値に桁区切りを追加します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@AddNumberSeparators / Name": {
+    "message": "数値の桁区切り",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@AutoFocusMarketboardSearch / Description": {
+    "message": "マーケットボードを開くとアイテム検索欄を自動で選択します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@AutoFocusMarketboardSearch / Name": {
+    "message": "マーケット検索欄の自動選択",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@AutoFocusRecipeSearch / Description": {
+    "message": "製作手帳を開くとレシピ検索欄を自動で選択します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@AutoFocusRecipeSearch / Name": {
+    "message": "レシピ検索欄の自動選択",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@BuffListVerticalGrowth / Buff List": {
+    "message": "バフ一覧",
+    "description": "[BuffListVerticalGrowth] [Config] Buff List"
+  },
+  "UiAdjustments@BuffListVerticalGrowth / Conditional Buff List": {
+    "message": "条件付きバフ一覧",
+    "description": "[BuffListVerticalGrowth] [Config] Conditional Buff List"
+  },
+  "UiAdjustments@BuffListVerticalGrowth / Debuff List": {
+    "message": "デバフ一覧",
+    "description": "[BuffListVerticalGrowth] [Config] Debuff List"
+  },
+  "UiAdjustments@BuffListVerticalGrowth / Description": {
+    "message": "バフ・デバフ一覧の縦方向の揃え方を変更し、下から上へ並べることなどができます。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@BuffListVerticalGrowth / Food/FC Buffs List": {
+    "message": "食事・FCバフ一覧",
+    "description": "[BuffListVerticalGrowth] [Config] Food/FC Buffs List"
+  },
+  "UiAdjustments@BuffListVerticalGrowth / Name": {
+    "message": "バフ一覧の縦方向の配置",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@CastBarAdjustments / Classic Mode": {
+    "message": "従来の表示方式",
+    "description": "[CastBarAdjustments] Cast Bar Adjustments - Classic Mode"
+  },
+  "UiAdjustments@CastingTextVisibility / Description": {
+    "message": "詠唱文字の大きさ・色・背景を変更します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@CastingTextVisibility / Name": {
+    "message": "詠唱文字の見やすさ調整",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ComboTimer / Alternative UI Attachment": {
+    "message": "別のUI接続方式を使用する",
+    "description": "[ComboTimer] [Config] Alternative UI Attachment"
+  },
+  "UiAdjustments@ComboTimer / Decimal Places": {
+    "message": "小数点以下の桁数",
+    "description": "[ComboTimer] [Config] Decimal Places"
+  },
+  "UiAdjustments@ComboTimer / Leading Zero": {
+    "message": "先頭のゼロを表示",
+    "description": "[ComboTimer] [Config] Leading Zero"
+  },
+  "UiAdjustments@DutyListBackground / Description": {
+    "message": "コンテンツ情報に調整可能な背景を追加します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ExamineItemLevel / Show Item Level Icon": {
+    "message": "アイテムレベルアイコンを表示",
+    "description": "[ExamineItemLevel] [Config] Show Item Level Icon"
+  },
+  "UiAdjustments@ExpPercentage / Move chain bonus text above bar": {
+    "message": "チェーンボーナスの文字をゲージの上に移動",
+    "description": "[ExpPercentage] [Config] Move chain bonus text above bar"
+  },
+  "UiAdjustments@ExpPercentage / Move EXP text above bar": {
+    "message": "経験値の文字をゲージの上に移動",
+    "description": "[ExpPercentage] [Config] Move EXP text above bar"
+  },
+  "UiAdjustments@ExpPercentage / Show only Rested Experience as percentage": {
+    "message": "レストボーナスだけを割合で表示",
+    "description": "[ExpPercentage] [Config] Show only Rested Experience as percentage"
+  },
+  "UiAdjustments@ExpPercentage / Show Rested Experience": {
+    "message": "レストボーナスを表示",
+    "description": "[ExpPercentage] [Config] Show Rested Experience"
+  },
+  "UiAdjustments@FastSearch / Description": {
+    "message": "マーケットボードと製作手帳の検索を高速化します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@FastSearch / Name": {
+    "message": "アイテム検索の高速化",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@FastSearch / Use Fuzzy Search": {
+    "message": "あいまい検索を使用する",
+    "description": "[FastSearch] [Config] Use Fuzzy Search"
+  },
+  "UiAdjustments@GearPositions / Soulstone Above Offhand": {
+    "message": "ソウルクリスタルをサブアームの上に配置",
+    "description": "[GearPositions] [Config] Soulstone Above Offhand"
+  },
+  "UiAdjustments@HideGuildhestObjectivePopup / Description": {
+    "message": "ギルドオーダー開始時の目的表示を隠します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideGuildhestObjectivePopup / Name": {
+    "message": "ギルドオーダーの目的表示を非表示",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HideTargetCircle / Out of Combat Time (Seconds)": {
+    "message": "戦闘終了後の表示時間（秒）",
+    "description": "[HideTargetCircle] [Config] Out of Combat Time (Seconds)"
+  },
+  "UiAdjustments@HideTargetCircle / Show In Combat": {
+    "message": "戦闘中は表示",
+    "description": "[HideTargetCircle] [Config] Show In Combat"
+  },
+  "UiAdjustments@HideTargetCircle / Show In Duty": {
+    "message": "コンテンツ中は表示",
+    "description": "[HideTargetCircle] [Config] Show In Duty"
+  },
+  "UiAdjustments@HideTargetCircle / Show While Weapon Is Drawn": {
+    "message": "抜刀中は表示する",
+    "description": "[HideTargetCircle] [Config] Show While Weapon Is Drawn"
+  },
+  "UiAdjustments@HouseLotteryTimer / Description": {
+    "message": "現在の抽選期間が終わるまでの時間をコンテンツ情報画面に表示します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@HouseLotteryTimer / Name": {
+    "message": "ハウジング抽選の残り時間",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@LootWindowDuplicateUniqueItemIndicator / Mark Already Unlocked Items": {
+    "message": "習得済みのアイテムに印を付ける",
+    "description": "[LootWindowDuplicateUniqueItemIndicator] [Config] Mark Already Unlocked Items"
+  },
+  "UiAdjustments@LootWindowDuplicateUniqueItemIndicator / Mark Un-obtainable Items": {
+    "message": "入手できないアイテムに印を付ける",
+    "description": "[LootWindowDuplicateUniqueItemIndicator] [Config] Mark Un-obtainable Items"
+  },
+  "UiAdjustments@LootWindowSelectNext / Description": {
+    "message": "「NEED」「GREED」「PASS」を押した後、次の戦利品を自動選択します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@LootWindowSelectNext / Name": {
+    "message": "ロット後に次のアイテムを選択",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@MarketEnhancements / ##LazyTax": {
+    "message": "##LazyTax",
+    "description": "[MarketEnhancements] [Config] ##LazyTax"
+  },
+  "UiAdjustments@MarketEnhancements / ##ResellProfit": {
+    "message": "##ResellProfit",
+    "description": "[MarketEnhancements] [Config] ##ResellProfit"
+  },
+  "UiAdjustments@MarketEnhancements / Highlight items that can be purchased from an NPC for cheaper.": {
+    "message": "NPCからより安く買えるアイテムを強調する",
+    "description": "[MarketEnhancements] [Config] Highlight items that can be purchased from an NPC for cheaper."
+  },
+  "UiAdjustments@MarketEnhancements / Highlight items that can be sold to NPC for more.": {
+    "message": "NPCにより高く売れるアイテムを強調する",
+    "description": "[MarketEnhancements] [Config] Highlight items that can be sold to NPC for more."
+  },
+  "UiAdjustments@OpenGlamourDresserToCurrentJob / Description": {
+    "message": "ミラージュドレッサーを開いたとき、ジョブのプルダウンを現在のジョブに設定します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@OpenGlamourDresserToCurrentJob / Name": {
+    "message": "ミラージュドレッサーで現在のジョブを選択",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ParameterBarAdjustments / CancelDefaultTint": {
+    "message": "標準のゲージ着色を解除する",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - Remove default bar tint"
+  },
+  "UiAdjustments@ParameterBarAdjustments / CenterHpWithMpHidden": {
+    "message": "MPを使用しないジョブではHPバーを中央に配置する",
+    "description": "[ParameterBarAdjustments] Parameter Bar Adjustments - Center the HP Bar on jobs that don't use MP"
+  },
+  "UiAdjustments@RenameFreeCompanyChestTabs / Description": {
+    "message": "カンパニーチェストの各タブの名前を変更できます。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@RenameFreeCompanyChestTabs / Name": {
+    "message": "カンパニーチェストのタブ名変更",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ScenarioProgressionDisplay / Description": {
+    "message": "メインクエストの進行率を表示します。",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ScenarioProgressionDisplay / Name": {
+    "message": "メインクエスト進行率",
+    "description": "Japanese edition"
+  },
+  "UiAdjustments@ScenarioProgressionDisplay / Percentage Accuracy": {
+    "message": "割合の表示精度",
+    "description": "[ScenarioProgressionDisplay] [Config] Percentage Accuracy"
+  },
+  "UiAdjustments@ScenarioProgressionDisplay / Show for current expansion": {
+    "message": "現在の拡張の進行率を表示",
+    "description": "[ScenarioProgressionDisplay] [Config] Show for current expansion"
+  },
+  "UiAdjustments@ScenarioProgressionDisplay / Show percentage before quest": {
+    "message": "クエスト名の前に割合を表示",
+    "description": "[ScenarioProgressionDisplay] [Config] Show percentage before quest"
+  },
+  "UiAdjustments@ShowShieldOnHPBar / Shield Colour": {
+    "message": "バリアの色",
+    "description": "[ShowShieldOnHPBar] [Config] Shield Colour"
+  },
+  "UiAdjustments@TimeUntilGpMax / EorzeaTime": {
+    "message": "エオルゼア時間を表示",
+    "description": "[TimeUntilGpMax] Time Until GP Max - Display Eorzea Time"
+  },
+  "UseCollectionCommand / Description": {
+    "message": "コレクションアイテムを使用する /usecollection コマンドを追加します。",
+    "description": "Japanese edition"
+  },
+  "UseCollectionCommand / Name": {
+    "message": "コレクション使用コマンド",
+    "description": "Japanese edition"
+  },
+  "SteamDeckInput / Name": {
+    "message": "Steamのフローティングキーボード",
+    "description": "Japanese edition"
+  },
+  "SteamDeckInput / Description": {
+    "message": "画面全体を覆うSteamの仮想キーボードを、小さなフローティングキーボードに置き換えます。",
+    "description": "Japanese edition"
+  },
+  "CombatChatBubbles / Name": {
+    "message": "戦闘中もチャット吹き出しを表示",
+    "description": "Japanese edition"
+  },
+  "CombatChatBubbles / Description": {
+    "message": "戦闘中もチャットの吹き出しを表示できるようにします。",
+    "description": "Japanese edition"
+  },
+  "HideChat / Name": {
+    "message": "チャット非表示コマンド",
+    "description": "Japanese edition"
+  },
+  "HideChat / Description": {
+    "message": "チャットの表示を切り替えるコマンドを追加します。（/$[CustomOrDefaultCommand] show|hide|toggle）",
+    "description": "Japanese edition"
+  },
+  "ImprovedWorldVisit / Name": {
+    "message": "見やすいワールド間テレポメニュー",
+    "description": "Japanese edition"
+  },
+  "ImprovedWorldVisit / Description": {
+    "message": "ワールド間テレポメニューをシンプルにし、現在地をリストに表示します。",
+    "description": "Japanese edition"
+  },
+  "ArmoireTooltipForGlamourDresser / Name": {
+    "message": "ドレッサー内の愛蔵品対応表示",
+    "description": "Japanese edition"
+  },
+  "ArmoireTooltipForGlamourDresser / Description": {
+    "message": "ミラージュドレッサー内のアイテムが愛蔵品キャビネットに収納できる場合、ツールチップで案内します。",
+    "description": "Japanese edition"
+  },
+  "PrecisionSpiritbond / Name": {
+    "message": "詳細な練成度",
+    "description": "Japanese edition"
+  },
+  "PrecisionSpiritbond / Description": {
+    "message": "耐久度のパーセンテージを表示します。",
+    "description": "Japanese edition"
+  }
+}

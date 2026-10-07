@@ -1,0 +1,9 @@
+name: Simple Tweaks 日本語版
+author: Caraxi / Japanese localization
+description: |-
+  Simple Tweaksの機能名、説明、設定画面、更新履歴を日本語にした派生版です。
+  各機能は個別にオン・オフでき、初期状態ではすべて無効です。
+  元のSimple Tweaksと同時に有効にしないでください。
+  原作者：CaraxiおよびSimpleTweaksPluginの貢献者。AGPL-3.0。
+punchline: FF14の便利な機能を日本語で設定できます。
+repo_url: https://github.com/Caraxi/SimpleTweaksPlugin

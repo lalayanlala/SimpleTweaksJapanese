@@ -1,0 +1,34 @@
+using System;
+using Dalamud.Game.DutyState;
+using SimpleTweaksPlugin.Events;
+using SimpleTweaksPlugin.TweakSystem;
+
+namespace SimpleTweaksPlugin.Tweaks; 
+
+[TweakName("Duty Timer")]
+[TweakDescription("When completing a duty, tells you how much time the duty took.")]
+[TweakAuthor("MidoriKami")]
+[TweakReleaseVersion("1.9.3.0")]
+public class DutyTimer : Tweak {
+    private DateTime startTimestamp;
+
+    protected override void Enable() {
+        Service.DutyState.DutyStarted += OnDutyStarted;
+        Service.DutyState.DutyCompleted += OnDutyCompleted;
+    }
+
+    protected override void Disable() {
+        Service.DutyState.DutyStarted -= OnDutyStarted;
+        Service.DutyState.DutyCompleted -= OnDutyCompleted;
+    }
+    
+    private void OnDutyStarted(IDutyStateEventArgs args) 
+        => startTimestamp = DateTime.UtcNow;
+
+    private void OnDutyCompleted(IDutyStateEventArgs args) 
+        => Service.Chat.Print($@"コンテンツ所要時間：{DateTime.UtcNow - startTimestamp:hh\:mm\:ss\.ffff}");
+
+    [TerritoryChanged]
+    private void OnTerritoryChanged(uint newTerritory)
+        => startTimestamp = DateTime.UtcNow;
+}
