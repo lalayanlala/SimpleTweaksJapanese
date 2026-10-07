@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "Caraxi / Japanese localization",
+    "Name": "Simple Tweaks 日本語版",
+    "InternalName": "SimpleTweaksPlugin",
+    "AssemblyVersion": "1.15.0.7001",
+    "Description": "Simple Tweaksの機能名、説明、設定画面、更新履歴を日本語にした派生版です。\n各機能は個別にオン・オフでき、初期状態ではすべて無効です。\n元のSimple Tweaksと同時に有効にしないでください。\n原作者：CaraxiおよびSimpleTweaksPluginの貢献者。AGPL-3.0。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/lalayanlala/SimpleTweaksJapanese",
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "FF14の便利な機能を日本語で設定できます。",
+    "AcceptsFeedback": true,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/lalayanlala/SimpleTweaksJapanese/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/lalayanlala/SimpleTweaksJapanese/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/lalayanlala/SimpleTweaksJapanese/releases/download/v1.0.0/latest.zip",
+    "LastUpdate": 1791342350
+  }
+]
