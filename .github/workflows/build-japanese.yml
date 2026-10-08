@@ -22,7 +22,23 @@ jobs:
       - name: Build Japanese edition
         shell: pwsh
         run: dotnet build SimpleTweaksPlugin.csproj -c Release "-p:DalamudLibPath=$pwd/DalamudRefs/"
+      - name: Verify package identity
+        shell: pwsh
+        run: |
+          $zip = 'bin/Release/SimpleTweaksJapanese/latest.zip'
+          if (-not (Test-Path $zip)) { throw 'latest.zip not found' }
+          $verify = Join-Path $env:RUNNER_TEMP 'stj-verify'
+          if (Test-Path $verify) { Remove-Item $verify -Recurse -Force }
+          Expand-Archive $zip -DestinationPath $verify
+          $manifestPath = Join-Path $verify 'SimpleTweaksJapanese.json'
+          $dllPath = Join-Path $verify 'SimpleTweaksJapanese.dll'
+          if (-not (Test-Path $manifestPath)) { throw 'SimpleTweaksJapanese.json missing' }
+          if (-not (Test-Path $dllPath)) { throw 'SimpleTweaksJapanese.dll missing' }
+          $manifest = Get-Content $manifestPath -Raw | ConvertFrom-Json
+          if ($manifest.InternalName -ne 'SimpleTweaksJapanese') { throw "Wrong InternalName: $($manifest.InternalName)" }
+          if ($manifest.AssemblyVersion -ne '1.15.0.7002') { throw "Wrong AssemblyVersion: $($manifest.AssemblyVersion)" }
+          if (Test-Path (Join-Path $verify 'SimpleTweaksPlugin.dll')) { throw 'Legacy SimpleTweaksPlugin.dll found' }
       - uses: actions/upload-artifact@v4
         with:
           name: SimpleTweaks-Japanese
-          path: bin/Release/SimpleTweaksPlugin/latest.zip
+          path: bin/Release/SimpleTweaksJapanese/latest.zip

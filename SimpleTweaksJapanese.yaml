@@ -1,12 +1,11 @@
-# 旧InternalName用のレガシーマニフェストです。
-# 配布ビルドでは SimpleTweaksJapanese.yaml を使用します。
-# このファイルは互換確認用に残しています。
 name: Simple Tweaks 日本語版
 author: Caraxi / Japanese localization
 description: |-
   Simple Tweaksの機能名、説明、設定画面、更新履歴を日本語にした派生版です。
+  本家とは別のInternalName（SimpleTweaksJapanese）で配布します。
   各機能は個別にオン・オフでき、初期状態ではすべて無効です。
-  元のSimple Tweaksと同時に有効にしないでください。
+  /tweaks コマンドが競合するため、元のSimple Tweaksと同時に有効にしないでください。
   原作者：CaraxiおよびSimpleTweaksPluginの貢献者。AGPL-3.0。
 punchline: FF14の便利な機能を日本語で設定できます。
-repo_url: https://github.com/Caraxi/SimpleTweaksPlugin
+repo_url: https://github.com/lalayanlala/SimpleTweaksJapanese
+changelog: InternalNameをSimpleTweaksJapaneseへ分離し、本家Simple Tweaksとの競合で一覧に出ない問題を修正しました。

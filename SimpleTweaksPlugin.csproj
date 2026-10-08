@@ -1,7 +1,7 @@
 <Project Sdk="Dalamud.NET.Sdk/15.0.0">
     <PropertyGroup>
-        <Version>1.15.0.7001</Version>
-        <AssemblyName>SimpleTweaksPlugin</AssemblyName>
+        <Version>1.15.0.7002</Version>
+        <AssemblyName>SimpleTweaksJapanese</AssemblyName>
         <Configurations>Debug;Release;DebugSteamDeck;CustomCS;Test</Configurations>
         <NoWarn>CS0649,CS0414,CS8618</NoWarn>
         <AppendPlatformToOutputPath>false</AppendPlatformToOutputPath>

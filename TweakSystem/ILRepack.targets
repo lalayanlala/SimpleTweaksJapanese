@@ -3,7 +3,7 @@
     <Target Name="ILRepacker" AfterTargets="Build">
 
         <ItemGroup>
-            <InputAssemblies Include="$(OutputPath)\SimpleTweaksPlugin.dll" />
+            <InputAssemblies Include="$(OutputPath)\$(AssemblyName).dll" />
             <InputAssemblies Include="$(OutputPath)\FFXIVClientStructs.dll" />
             <InputAssemblies Include="$(OutputPath)\FFXIVClientStructs.Common.dll" />
             <InputAssemblies Include="$(OutputPath)\Serilog.dll" />

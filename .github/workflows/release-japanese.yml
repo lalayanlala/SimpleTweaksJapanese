@@ -1,0 +1,44 @@
+name: Release Japanese edition
+on:
+  push:
+    tags:
+      - 'v*'
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+      - name: Download Dalamud development references
+        shell: pwsh
+        run: |
+          Invoke-WebRequest 'https://goatcorp.github.io/dalamud-distrib/latest.zip' -OutFile latest-dalamud.zip
+          Expand-Archive latest-dalamud.zip -DestinationPath DalamudRefs
+      - name: Build
+        shell: pwsh
+        run: dotnet build SimpleTweaksPlugin.csproj -c Release "-p:DalamudLibPath=$pwd/DalamudRefs/"
+      - name: Verify package
+        shell: pwsh
+        run: |
+          $zip = 'bin/Release/SimpleTweaksJapanese/latest.zip'
+          $verify = Join-Path $env:RUNNER_TEMP 'stj-release-verify'
+          Expand-Archive $zip -DestinationPath $verify -Force
+          $manifest = Get-Content (Join-Path $verify 'SimpleTweaksJapanese.json') -Raw | ConvertFrom-Json
+          if ($manifest.InternalName -ne 'SimpleTweaksJapanese') { throw 'InternalName verification failed' }
+          if (-not (Test-Path (Join-Path $verify 'SimpleTweaksJapanese.dll'))) { throw 'DLL verification failed' }
+      - name: Publish GitHub Release asset
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $tag = '${{ github.ref_name }}'
+          gh release view $tag *> $null
+          if ($LASTEXITCODE -ne 0) {
+            gh release create $tag 'bin/Release/SimpleTweaksJapanese/latest.zip' --title $tag --generate-notes
+          } else {
+            gh release upload $tag 'bin/Release/SimpleTweaksJapanese/latest.zip' --clobber
+          }
